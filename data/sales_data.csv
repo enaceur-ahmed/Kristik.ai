@@ -1,0 +1,1051 @@
+customer_id,customer_age,country,acquisition_channel,product,revenue,quantity,discount,purchase_date,customer_segment
+CUST00502,,Italy,Paid Search,Wireless Earbuds,602.88,1,0.19,2023/02/28,budget
+CUST00259,64,,Paid Search,Wireless Earbuds,,10,0.4,"April 2, 2023",PREMIUM
+CUST00616,37,GERMANY,Paid Search,Mechanical Keyboard,130.87,10,0.37,10-03-2023,standard
+CUST00258,49,Italy,social_media,Wireless Earbuds,713.89,10,0.09,"April 27, 2023",PREMIUM
+CUST00086,37,Italy,Social Media,Smart Watch,257.4,8,0.09,"April 5, 2023",budget
+CUST00158,31,germany,Referral,Mechanical Keyboard,127.07,10,0.1,2023-01-22,enterprise
+CUST00680,,france,social_media,Tablet X,767.82,2,0.33,2023/02/24,PREMIUM
+CUST00764,64,spain,social_media,Wireless Earbuds,161.58,3,0.07,"April 16, 2023",PREMIUM
+CUST00834,46,uk,email,Tablet X,236.71,3,0.38,"April 21, 2023",Premium
+CUST00954,33,Germany,social_media,USB-C Hub,51.3,4,0.36,"April 4, 2023",budget
+CUST00434,53,FRANCE,referral,USB-C Hub,253.45,6,0.33,2023-04-27,enterprise
+CUST00582,66,Italy,ORGANIC,Smart Watch,593.99,5,0.24,22-03-2023,Premium
+CUST00176,60,SPAIN,paid_search,Monitor 4K,759.85,3,0.17,2023-04-02,STANDARD
+CUST00128,,germany,organic,Tablet X,261.86,7,0.22,02-03-2023,standard
+CUST00865,28,germany,Organic,Smart Watch,272.45,4,0.32,2023-05-26,standard
+CUST00857,37,,organic,Webcam HD,72.37,3,0.05,2023-01-08,standard
+CUST00597,23,Italy,referral,Wireless Earbuds,403.9,7,0.2,2023/02/07,enterprise
+CUST00815,29,Germany,organic,Wireless Earbuds,686.75,2,0.4,2023-04-20,Enterprise
+CUST00320,65,SPAIN,Organic,Monitor 4K,226.11,3,0.1,15-03-2023,PREMIUM
+CUST00503,73,GERMANY,Email,Webcam HD,,2,0.28,"April 2, 2023",Standard
+CUST00665,65,france,referral,USB-C Hub,554.89,7,0.28,11-03-2023,Enterprise
+CUST00573,34,FRANCE,Referral,Webcam HD,122.9,6,0.17,04-03-2023,STANDARD
+CUST00798,75,spain,social_media,Mechanical Keyboard,346.9,8,0.31,2023-05-14,STANDARD
+CUST00912,,France,referral,Tablet X,,5,0.25,2023/02/21,STANDARD
+CUST00454,44,germany,email,Tablet X,319.38,6,0.28,2023-04-26,budget
+CUST00825,56,GERMANY,email,Monitor 4K,,1,0.34,2023-01-15,Standard
+CUST00775,70,germany,Social Media,Smart Watch,470.74,4,0.09,2023-01-07,premium
+CUST00224,41,Italy,Email,Wireless Earbuds,586.27,4,0.04,2023-01-01,standard
+CUST00382,32,Germany,Organic,Monitor 4K,643.97,10,0.27,21-03-2023,enterprise
+CUST00973,68,spain,Email,Wireless Earbuds,636.4,6,0.09,2023-05-11,standard
+CUST00404,64,GERMANY,referral,Wireless Earbuds,568.22,2,0.12,2023-05-26,Enterprise
+CUST00681,,SPAIN,Organic,USB-C Hub,507.25,9,0.17,2023/02/07,Premium
+CUST00373,42,italy,Paid Search,Webcam HD,150.71,6,0.24,2023-04-28,Premium
+CUST00687,46,,social_media,Wireless Earbuds,613.19,9,0.17,25-03-2023,premium
+CUST00253,28,France,paid_search,Tablet X,735.46,1,0.38,"April 28, 2023",budget
+CUST00462,26,France,ORGANIC,Monitor 4K,562.4,7,0.18,2023-04-18,Budget
+CUST00042,52,France,ORGANIC,Wireless Earbuds,571.01,2,0.13,2023-04-14,premium
+CUST00029,60,France,social_media,Monitor 4K,742.1,4,0.39,2023/02/14,premium
+CUST00868,45,uk,Referral,Tablet X,,2,0.32,2023-01-12,budget
+CUST00101,74,france,ORGANIC,Wireless Earbuds,,2,0.26,2023-04-20,Budget
+CUST00055,37,Italy,email,USB-C Hub,351.89,9,0.28,10-03-2023,Standard
+CUST00566,70,GERMANY,Paid Search,Tablet X,326.93,7,0.35,2023/02/01,premium
+CUST00715,37,SPAIN,Organic,Mechanical Keyboard,393.06,4,0.28,2023-04-02,STANDARD
+CUST00245,31,Spain,Paid Search,Webcam HD,142.94,5,0.28,2023-01-07,STANDARD
+CUST00776,48,FRANCE,Organic,Laptop Pro,682.48,3,0.06,"April 14, 2023",standard
+CUST00716,63,germany,paid_search,Laptop Pro,688.29,7,0.33,2023/02/01,enterprise
+CUST00730,34,Italy,Social Media,Wireless Earbuds,591.49,4,0.23,2023-05-27,enterprise
+CUST00569,73,uk,Paid Search,Mechanical Keyboard,356.42,4,0.4,24-03-2023,standard
+CUST00446,20,Spain,Social Media,Smart Watch,0.01,10,0.13,2023-01-04,enterprise
+CUST00850,64,germany,Social Media,Smart Watch,,6,0.27,2023-04-14,budget
+CUST00809,58,spain,ORGANIC,Monitor 4K,361.17,2,0.05,2023-01-21,Enterprise
+CUST00213,57,france,social_media,Laptop Pro,319.48,9,0.2,2023-05-16,budget
+CUST00741,72,UK,Organic,Mechanical Keyboard,186.19,10,0.37,2023-05-17,premium
+CUST00005,23,uk,paid_search,Smart Watch,670.61,3,0.08,23-03-2023,Premium
+CUST00326,31,Italy,Email,Tablet X,101.06,9,0.35,2023-05-25,budget
+CUST00240,49,UK,paid_search,Tablet X,38.65,9,0.34,2023-01-11,premium
+CUST00134,51,GERMANY,Social Media,USB-C Hub,108.49,3,0.15,"April 4, 2023",Standard
+CUST00230,49,Italy,email,Smart Watch,789.77,6,0.34,"April 14, 2023",STANDARD
+CUST00199,57,spain,social_media,Webcam HD,690.42,10,0.13,2023-05-07,Budget
+CUST00939,29,france,social_media,Webcam HD,350.78,10,0.4,2023/02/13,STANDARD
+CUST00289,58,FRANCE,social_media,Laptop Pro,15000.0,4,0.07,2023/02/16,Premium
+CUST00187,36,france,Referral,Monitor 4K,103.47,2,0.1,"April 17, 2023",Standard
+CUST00654,74,U.K.,ORGANIC,Tablet X,311.92,10,0.25,2023-01-25,Enterprise
+CUST00066,29,italy,Social Media,Webcam HD,338.51,6,0.34,14-03-2023,Budget
+CUST00644,,spain,referral,Monitor 4K,284.9,1,0.13,2023/02/04,Premium
+CUST00513,41,FRANCE,paid_search,Laptop Pro,135.4,8,0.07,04-03-2023,premium
+CUST00361,73,france,referral,Smart Watch,635.15,4,0.09,14-03-2023,STANDARD
+CUST00645,,,Organic,Tablet X,416.94,6,0.29,2023-04-06,standard
+CUST00347,64,Italy,social_media,Webcam HD,315.0,3,0.08,"April 22, 2023",budget
+CUST00621,50,U.K.,organic,Smart Watch,770.65,5,0.1,2023-05-27,Enterprise
+CUST00172,73,GERMANY,Organic,Wireless Earbuds,119.33,4,0.3,15-03-2023,enterprise
+CUST00003,39,Germany,ORGANIC,Tablet X,92.34,2,0.14,26-03-2023,premium
+CUST00280,35,Italy,Social Media,Laptop Pro,552.12,8,0.26,"April 26, 2023",premium
+CUST00380,34,FRANCE,Paid Search,Laptop Pro,9999.99,6,0.21,2023-05-16,Budget
+CUST00723,55,italy,email,Webcam HD,639.59,3,0.4,2023-05-14,Standard
+CUST00263,24,France,social_media,Wireless Earbuds,78.5,2,0.39,2023-04-23,premium
+CUST00109,58,GERMANY,ORGANIC,Webcam HD,256.2,5,0.14,2023-01-10,Budget
+CUST00251,69,SPAIN,paid_search,Laptop Pro,300.11,9,0.14,"April 17, 2023",STANDARD
+CUST00045,26,italy,Referral,Laptop Pro,537.14,2,0.05,2023-04-06,premium
+CUST00401,34,GERMANY,referral,Webcam HD,,1,0.24,"April 5, 2023",Standard
+CUST00026,31,Italy,Email,Mechanical Keyboard,728.36,1,0.17,02-03-2023,premium
+CUST00609,33,uk,Paid Search,Monitor 4K,66.76,6,0.2,2023-01-02,Premium
+CUST00034,22,Italy,social_media,USB-C Hub,722.04,9,0.16,2023-04-23,Standard
+CUST00990,36,Germany,ORGANIC,Mechanical Keyboard,250.01,3,0.12,2023-04-09,standard
+CUST00217,65,italy,social_media,Monitor 4K,181.16,4,0.23,"April 9, 2023",Enterprise
+CUST00110,21,GERMANY,Paid Search,Smart Watch,90.43,10,0.19,"April 26, 2023",premium
+CUST00188,35,UK,Social Media,Smart Watch,460.7,4,0.33,2023-01-21,premium
+CUST00221,47,Italy,Email,USB-C Hub,330.22,7,0.2,27-03-2023,Standard
+CUST00453,40,italy,email,Wireless Earbuds,577.13,2,0.26,18-03-2023,Budget
+CUST00302,74,uk,ORGANIC,Webcam HD,340.8,1,0.26,2023-01-23,enterprise
+CUST00248,34,U.K.,Organic,Laptop Pro,523.87,3,0.34,04-03-2023,premium
+CUST00265,37,germany,Organic,Laptop Pro,402.94,1,0.17,27-03-2023,Enterprise
+CUST00935,67,spain,social_media,Mechanical Keyboard,500.39,8,0.0,2023/02/07,Premium
+CUST00297,,Italy,Organic,Smart Watch,136.33,2,0.03,2023-05-04,Standard
+CUST00540,49,germany,Email,Wireless Earbuds,0.01,2,0.01,2023/02/13,Enterprise
+CUST00543,20,france,ORGANIC,Mechanical Keyboard,355.93,5,0.19,2023-01-19,Budget
+CUST00491,44,,referral,Wireless Earbuds,428.01,7,0.07,2023-05-02,Enterprise
+CUST00354,43,UK,social_media,Laptop Pro,24.13,2,0.19,"April 14, 2023",Premium
+CUST00238,33,spain,social_media,Mechanical Keyboard,113.13,1,0.32,2023-01-13,Premium
+CUST00218,38,,Paid Search,Mechanical Keyboard,421.24,2,0.3,2023-04-02,Standard
+CUST00088,46,germany,social_media,Smart Watch,723.32,6,0.11,2023-01-28,Budget
+CUST00195,24,France,organic,Mechanical Keyboard,99.74,2,0.18,"April 17, 2023",budget
+CUST00495,49,SPAIN,Organic,Smart Watch,482.31,6,0.3,08-03-2023,Premium
+CUST00420,71,U.K.,ORGANIC,Laptop Pro,342.95,7,0.3,2023-05-24,Standard
+CUST00952,41,italy,Social Media,Laptop Pro,299.93,1,0.19,21-03-2023,Premium
+CUST00926,43,italy,referral,Tablet X,341.25,6,0.01,2023-05-19,Enterprise
+CUST00662,18,UK,Paid Search,Mechanical Keyboard,334.97,7,0.3,2023-01-16,enterprise
+CUST00722,73,uk,Email,Monitor 4K,306.51,2,0.05,2023-05-22,enterprise
+CUST00908,45,Spain,Paid Search,Smart Watch,590.67,2,0.32,2023-05-26,standard
+CUST00575,28,GERMANY,referral,Wireless Earbuds,516.59,8,0.06,2023/02/06,premium
+CUST00084,22,FRANCE,paid_search,Monitor 4K,305.3,-7,0.21,2023-04-12,Standard
+CUST00640,37,France,Email,Smart Watch,-50.0,1,0.25,27-03-2023,Standard
+CUST00925,24,Italy,Paid Search,USB-C Hub,85.23,9,0.35,2023-04-19,standard
+CUST00831,51,SPAIN,paid_search,Webcam HD,271.09,8,0.11,23-03-2023,Premium
+CUST00958,24,Spain,Referral,Monitor 4K,541.38,8,0.31,2023-01-13,PREMIUM
+CUST00960,,U.K.,email,Wireless Earbuds,285.08,1,0.3,2023-01-21,standard
+CUST00210,25,Germany,Email,Webcam HD,485.64,10,0.05,28-03-2023,Budget
+CUST00512,57,U.K.,ORGANIC,Mechanical Keyboard,572.33,3,0.05,19-03-2023,PREMIUM
+CUST00032,71,SPAIN,social_media,Laptop Pro,159.28,5,0.24,24-03-2023,STANDARD
+CUST00830,42,Germany,ORGANIC,Wireless Earbuds,269.08,3,0.36,2023-04-21,Budget
+CUST00578,18,SPAIN,email,Wireless Earbuds,619.24,2,0.01,2023-05-22,Premium
+CUST00349,52,uk,organic,Monitor 4K,53.88,9,0.38,2023-04-26,budget
+CUST00675,31,SPAIN,organic,Webcam HD,-50.0,7,0.16,2023/02/13,premium
+CUST00413,75,Italy,Referral,Laptop Pro,176.54,10,0.19,2023-01-03,budget
+CUST00306,,Spain,email,Webcam HD,266.53,8,0.01,2023-04-14,premium
+CUST00440,71,FRANCE,paid_search,USB-C Hub,393.7,8,0.26,2023-04-05,Budget
+CUST00436,58,SPAIN,Organic,Webcam HD,634.78,5,0.34,17-03-2023,Enterprise
+CUST00019,31,uk,Social Media,Laptop Pro,,7,0.31,2023-04-10,budget
+CUST00917,44,germany,email,Wireless Earbuds,106.05,10,0.05,"April 1, 2023",premium
+CUST00197,33,italy,Referral,Wireless Earbuds,229.76,5,0.03,2023-04-09,budget
+CUST00494,20,france,Email,USB-C Hub,280.75,8,0.3,"April 6, 2023",PREMIUM
+CUST00002,56,france,Referral,Tablet X,347.23,8,0.32,2023-01-25,PREMIUM
+CUST00568,41,FRANCE,email,Smart Watch,-50.0,8,0.2,2023/02/23,standard
+CUST00883,42,Spain,organic,Tablet X,356.25,1,0.01,01-03-2023,Enterprise
+CUST00105,63,Italy,Social Media,Mechanical Keyboard,,6,0.38,2023-04-27,STANDARD
+CUST00478,39,france,Paid Search,Mechanical Keyboard,783.95,4,0.07,2023-04-04,PREMIUM
+CUST00060,56,italy,email,Tablet X,728.63,5,0.4,19-03-2023,Enterprise
+CUST00548,42,GERMANY,email,Smart Watch,546.59,6,0.32,2023-05-11,PREMIUM
+CUST00584,45,France,organic,USB-C Hub,525.14,3,0.21,2023-05-17,Premium
+CUST00386,75,uk,Paid Search,Monitor 4K,619.15,4,0.39,2023/02/24,premium
+CUST00080,40,italy,Paid Search,Mechanical Keyboard,-50.0,-5,0.35,2023-05-02,Enterprise
+CUST00150,69,Spain,Referral,Webcam HD,129.03,10,0.16,"April 24, 2023",Standard
+CUST00963,18,FRANCE,social_media,Wireless Earbuds,374.66,8,0.27,2023-04-25,premium
+CUST00452,41,spain,ORGANIC,USB-C Hub,373.56,1,0.05,2023-04-15,PREMIUM
+CUST00819,68,UK,email,Mechanical Keyboard,583.21,7,0.17,2023-05-09,STANDARD
+CUST00602,41,GERMANY,ORGANIC,Smart Watch,344.28,1,0.32,10-03-2023,enterprise
+CUST00126,34,,organic,USB-C Hub,591.69,2,0.29,05-03-2023,premium
+CUST00743,24,spain,referral,Tablet X,139.89,2,0.0,2023-05-09,standard
+CUST00565,28,germany,Referral,Wireless Earbuds,638.26,6,0.35,2023/02/09,PREMIUM
+CUST00982,19,GERMANY,email,Tablet X,553.8,6,0.24,2023-05-13,enterprise
+CUST00246,63,germany,social_media,Monitor 4K,222.93,3,0.16,2023-04-18,enterprise
+CUST00154,44,SPAIN,email,Webcam HD,68.58,3,0.22,2023-05-16,enterprise
+CUST00972,45,Germany,ORGANIC,Mechanical Keyboard,,7,0.27,01-03-2023,budget
+CUST00164,23,spain,Email,Smart Watch,272.41,-4,0.15,2023-04-25,Standard
+CUST00632,63,Spain,Social Media,Smart Watch,80.47,1,0.33,2023-04-22,Premium
+CUST00352,72,SPAIN,Social Media,USB-C Hub,330.01,4,0.31,2023-04-06,STANDARD
+CUST00747,24,UK,organic,Wireless Earbuds,618.56,4,0.33,2023-04-20,premium
+CUST00324,33,france,Email,USB-C Hub,108.43,5,0.11,"April 27, 2023",STANDARD
+CUST00101,74,france,ORGANIC,Wireless Earbuds,,2,0.26,2023-04-20,Budget
+CUST00746,60,Germany,Organic,Monitor 4K,551.75,3,0.31,2023-04-17,budget
+CUST00397,65,U.K.,Social Media,USB-C Hub,501.21,9,0.03,03-03-2023,standard
+CUST00822,67,GERMANY,Organic,Laptop Pro,,6,0.23,08-03-2023,enterprise
+CUST00044,65,SPAIN,email,Tablet X,398.8,7,0.27,2023-04-24,PREMIUM
+CUST00186,57,Italy,Email,Webcam HD,,9,0.0,"April 24, 2023",Standard
+CUST00112,29,france,paid_search,Webcam HD,495.65,6,0.11,2023-04-25,STANDARD
+CUST00273,74,GERMANY,Social Media,Mechanical Keyboard,494.99,1,0.16,"April 20, 2023",budget
+CUST00736,44,,referral,Wireless Earbuds,385.56,5,0.17,2023-05-27,standard
+CUST00522,37,Italy,Email,Webcam HD,244.4,3,0.28,2023/02/01,Premium
+CUST00275,72,,Email,Smart Watch,254.37,8,0.13,2023-05-14,Enterprise
+CUST00118,68,Spain,paid_search,Tablet X,385.83,4,0.38,2023-04-15,Standard
+CUST00334,59,germany,Organic,Mechanical Keyboard,267.87,8,0.26,2023-05-19,PREMIUM
+CUST00497,41,FRANCE,referral,Tablet X,177.72,3,0.23,05-03-2023,Premium
+CUST00612,30,uk,social_media,Webcam HD,666.18,2,0.17,2023/02/16,standard
+CUST00120,51,uk,Organic,Mechanical Keyboard,370.47,9,0.17,2023/02/27,Budget
+CUST00237,50,france,organic,Laptop Pro,318.72,3,0.38,2023-01-18,budget
+CUST00227,,Italy,ORGANIC,Webcam HD,603.65,7,0.18,2023/02/03,Premium
+CUST00869,73,France,social_media,Wireless Earbuds,588.06,9,0.33,"April 27, 2023",Budget
+CUST00880,67,SPAIN,Paid Search,Tablet X,564.26,9,0.14,2023-04-23,Enterprise
+CUST00059,22,spain,referral,Smart Watch,138.35,10,0.03,2023/02/04,enterprise
+CUST00961,30,france,paid_search,Mechanical Keyboard,530.16,7,0.12,2023-05-27,Budget
+CUST00032,71,SPAIN,social_media,Laptop Pro,159.28,5,0.24,24-03-2023,STANDARD
+CUST00081,71,U.K.,Paid Search,Tablet X,516.56,10,0.3,2023-05-22,PREMIUM
+CUST00781,45,U.K.,ORGANIC,Mechanical Keyboard,782.78,3,0.16,2023-01-08,budget
+CUST00122,26,france,Paid Search,Webcam HD,570.32,8,0.36,2023-01-09,standard
+CUST00574,,FRANCE,referral,Mechanical Keyboard,240.68,5,0.3,17-03-2023,STANDARD
+CUST00610,54,,organic,Webcam HD,601.69,10,0.36,2023-05-22,enterprise
+CUST00996,33,Germany,ORGANIC,Tablet X,158.4,10,0.11,2023-05-07,Premium
+CUST00941,20,Italy,Paid Search,Webcam HD,569.33,5,0.39,2023-01-28,Budget
+CUST00549,41,spain,paid_search,Webcam HD,78.75,9,0.11,19-03-2023,budget
+CUST00651,30,Italy,email,USB-C Hub,,4,0.09,24-03-2023,PREMIUM
+CUST00131,60,Germany,Paid Search,Webcam HD,558.02,6,0.29,20-03-2023,budget
+CUST00509,31,SPAIN,Email,Laptop Pro,442.32,3,0.17,2023-05-21,premium
+CUST00508,74,Spain,Organic,Smart Watch,767.44,2,0.11,2023-05-05,Budget
+CUST00889,22,Spain,ORGANIC,Mechanical Keyboard,697.86,3,0.07,"April 21, 2023",premium
+CUST00241,42,uk,Paid Search,Smart Watch,347.46,1,0.06,03-03-2023,premium
+CUST00338,75,SPAIN,referral,Wireless Earbuds,622.27,5,0.2,2023-01-13,STANDARD
+CUST00827,40,spain,Organic,USB-C Hub,,5,0.18,2023-05-04,STANDARD
+CUST00139,40,FRANCE,Referral,Wireless Earbuds,412.23,1,0.21,06-03-2023,PREMIUM
+CUST00514,49,UK,ORGANIC,Webcam HD,776.72,9,0.13,2023-05-10,Budget
+CUST00824,44,Italy,Social Media,USB-C Hub,58.73,8,0.4,2023-04-04,Premium
+CUST00904,21,italy,Referral,Monitor 4K,610.69,3,0.38,2023-05-07,budget
+CUST00727,52,FRANCE,Social Media,Laptop Pro,,9,0.12,"April 15, 2023",PREMIUM
+CUST00985,64,France,organic,Laptop Pro,425.42,8,0.03,2023-04-09,enterprise
+CUST00922,55,UK,Social Media,Tablet X,632.12,7,0.01,15-03-2023,standard
+CUST00094,38,spain,email,Mechanical Keyboard,97.36,2,0.26,"April 24, 2023",standard
+CUST00391,46,,paid_search,Laptop Pro,125.09,1,0.18,18-03-2023,Budget
+CUST00570,44,UK,ORGANIC,Laptop Pro,501.79,4,0.27,2023-04-03,premium
+CUST00735,18,Italy,Referral,Wireless Earbuds,462.7,5,0.29,23-03-2023,standard
+CUST00192,33,italy,Social Media,USB-C Hub,636.59,2,0.39,2023-01-04,budget
+CUST00811,57,,Referral,Smart Watch,,3,0.25,06-03-2023,standard
+CUST00673,29,,email,Smart Watch,206.96,3,0.25,22-03-2023,Premium
+CUST00992,28,GERMANY,Email,Wireless Earbuds,428.2,7,0.19,2023/02/28,enterprise
+CUST00614,44,uk,ORGANIC,Wireless Earbuds,377.02,9,0.05,2023/02/15,Budget
+CUST00607,57,UK,email,Webcam HD,629.62,7,0.35,2023-01-02,enterprise
+CUST00631,56,GERMANY,organic,Wireless Earbuds,,-8,0.0,2023/02/14,enterprise
+CUST00734,21,FRANCE,social_media,Monitor 4K,548.69,9,0.35,2023-04-16,Enterprise
+CUST00653,31,Germany,referral,Tablet X,153.66,9,0.4,2023-04-23,Premium
+CUST00603,35,GERMANY,Social Media,USB-C Hub,607.5,9,0.09,2023-04-14,budget
+CUST00913,60,FRANCE,Paid Search,Tablet X,402.37,7,0.22,04-03-2023,standard
+CUST00317,65,SPAIN,paid_search,Monitor 4K,643.08,5,0.02,2023-04-13,budget
+CUST00143,69,Italy,Social Media,Mechanical Keyboard,143.3,7,0.08,"April 5, 2023",STANDARD
+CUST00506,48,,email,Tablet X,269.96,5,0.17,2023-01-03,STANDARD
+CUST00692,45,UK,ORGANIC,Webcam HD,-50.0,7,0.3,20-03-2023,enterprise
+CUST00417,35,germany,ORGANIC,USB-C Hub,88.48,7,0.27,2023-05-22,standard
+CUST00419,37,,Referral,Wireless Earbuds,620.64,10,0.13,"April 18, 2023",Premium
+CUST00296,56,germany,Paid Search,Tablet X,145.09,9,0.08,2023-04-11,standard
+CUST00636,65,italy,Email,Wireless Earbuds,70.74,5,0.34,"April 24, 2023",Standard
+CUST00943,26,France,Social Media,Smart Watch,68.61,2,0.11,2023/02/21,Enterprise
+CUST00871,32,france,email,USB-C Hub,15000.0,5,0.14,2023/02/10,Premium
+CUST00986,67,italy,Email,Laptop Pro,66.63,7,0.29,2023-01-12,budget
+CUST00004,52,France,Social Media,Smart Watch,502.45,6,0.28,2023-01-22,standard
+CUST00038,57,uk,Organic,Webcam HD,171.66,7,0.1,2023-05-23,premium
+CUST00359,47,U.K.,Social Media,Laptop Pro,103.04,2,0.14,2023-01-26,enterprise
+CUST00870,40,italy,Referral,Wireless Earbuds,507.87,2,0.05,"April 10, 2023",Premium
+CUST00279,28,uk,Paid Search,Smart Watch,147.07,10,0.09,2023/02/21,standard
+CUST00833,31,uk,email,USB-C Hub,374.14,3,0.04,2023/02/08,STANDARD
+CUST00243,,italy,organic,Monitor 4K,247.51,6,0.16,2023-05-11,STANDARD
+CUST00997,26,SPAIN,Paid Search,Laptop Pro,614.11,8,0.21,2023-01-11,Premium
+CUST00737,72,France,Paid Search,Monitor 4K,515.05,2,0.38,2023/02/19,premium
+CUST00057,24,uk,paid_search,Mechanical Keyboard,31.04,9,0.02,2023-01-18,Standard
+CUST00344,39,,Organic,Webcam HD,480.82,7,0.02,"April 19, 2023",PREMIUM
+CUST00780,50,FRANCE,organic,Monitor 4K,703.26,9,0.1,"April 17, 2023",Standard
+CUST00378,38,uk,referral,Webcam HD,232.48,8,0.38,"April 6, 2023",Enterprise
+CUST00881,23,germany,ORGANIC,Tablet X,115.74,3,0.09,2023-04-21,Budget
+CUST00567,59,italy,Email,Tablet X,174.65,3,0.25,"April 9, 2023",PREMIUM
+CUST00804,42,Germany,Email,Monitor 4K,751.56,2,0.32,2023-01-03,premium
+CUST00704,56,spain,social_media,USB-C Hub,265.87,4,0.27,2023-04-20,premium
+CUST00709,33,germany,paid_search,Wireless Earbuds,89.76,7,0.01,13-03-2023,Standard
+CUST00788,28,SPAIN,Referral,USB-C Hub,246.86,10,0.17,2023-05-25,budget
+CUST00708,30,,ORGANIC,Laptop Pro,255.05,9,0.19,2023-04-04,Budget
+CUST00011,50,U.K.,Organic,Mechanical Keyboard,175.15,6,0.22,"April 1, 2023",Enterprise
+CUST00756,44,SPAIN,Paid Search,USB-C Hub,579.51,7,0.17,"April 26, 2023",premium
+CUST00377,74,spain,Paid Search,Tablet X,508.65,3,0.07,2023-01-22,STANDARD
+CUST00277,67,uk,Referral,Laptop Pro,176.57,1,0.18,23-03-2023,standard
+CUST00365,74,U.K.,email,Mechanical Keyboard,734.49,5,0.3,2023/02/02,enterprise
+CUST00785,,GERMANY,Organic,Mechanical Keyboard,15000.0,5,0.2,25-03-2023,budget
+CUST00151,50,uk,Referral,Webcam HD,656.28,6,0.04,2023-04-19,Standard
+CUST00561,61,France,Referral,Tablet X,729.64,7,0.37,03-03-2023,standard
+CUST00198,68,France,social_media,Mechanical Keyboard,406.73,10,0.04,01-03-2023,budget
+CUST00894,63,GERMANY,paid_search,Monitor 4K,,3,0.4,2023-01-03,standard
+CUST00271,34,GERMANY,Organic,Smart Watch,274.38,5,0.37,2023-01-26,Enterprise
+CUST00951,67,germany,Paid Search,Tablet X,,2,0.25,2023-04-05,Budget
+CUST00767,35,FRANCE,Email,Laptop Pro,,2,0.33,2023-05-03,standard
+CUST00861,54,spain,organic,Mechanical Keyboard,532.61,8,0.36,2023/02/15,Budget
+CUST00312,26,France,Social Media,USB-C Hub,784.01,4,0.39,15-03-2023,PREMIUM
+CUST00293,26,germany,organic,Wireless Earbuds,637.86,7,0.1,"April 20, 2023",premium
+CUST00108,66,Italy,Organic,Wireless Earbuds,381.88,10,0.18,"April 21, 2023",Enterprise
+CUST00671,46,France,Social Media,Tablet X,705.81,8,0.02,2023-01-10,Budget
+CUST00102,31,UK,Referral,Smart Watch,549.01,10,0.27,2023-01-08,budget
+CUST00039,73,UK,Organic,Monitor 4K,562.81,8,0.1,2023-01-15,PREMIUM
+CUST00539,66,UK,Email,Monitor 4K,761.11,8,0.06,2023-04-04,Premium
+CUST00092,67,GERMANY,Referral,Smart Watch,499.78,9,0.26,2023-01-02,Budget
+CUST00817,31,france,social_media,Wireless Earbuds,753.08,5,0.08,2023-01-12,enterprise
+CUST00260,69,italy,paid_search,Smart Watch,601.37,4,0.13,2023-05-03,STANDARD
+CUST00159,32,france,Organic,Monitor 4K,551.33,-3,0.22,2023/02/14,Budget
+CUST00627,23,uk,Email,Tablet X,441.54,3,0.22,2023-04-18,Budget
+CUST00427,47,uk,Email,Webcam HD,160.22,10,0.28,2023/02/13,budget
+CUST00841,45,GERMANY,organic,Wireless Earbuds,153.17,1,0.39,"April 1, 2023",Budget
+CUST00596,36,,Social Media,Monitor 4K,592.98,8,0.34,"April 7, 2023",Standard
+CUST00821,56,uk,Email,USB-C Hub,651.05,7,0.14,2023-01-07,STANDARD
+CUST00485,39,UK,organic,Monitor 4K,540.51,8,0.35,"April 5, 2023",Enterprise
+CUST00886,33,FRANCE,organic,Mechanical Keyboard,86.72,4,0.12,"April 13, 2023",premium
+CUST00444,71,Germany,paid_search,Mechanical Keyboard,49.17,4,0.18,2023-01-26,Budget
+CUST00173,42,uk,paid_search,Tablet X,167.01,2,0.26,"April 25, 2023",premium
+CUST00882,19,Spain,organic,Mechanical Keyboard,665.2,2,0.34,2023-04-16,premium
+CUST00439,34,UK,Organic,Mechanical Keyboard,618.29,2,0.14,2023-05-19,Enterprise
+CUST00136,72,GERMANY,Email,USB-C Hub,246.48,5,0.28,2023-05-21,PREMIUM
+CUST00813,55,uk,Organic,Smart Watch,103.52,5,0.07,2023-01-16,STANDARD
+CUST00362,18,,Paid Search,Tablet X,604.05,6,0.37,2023-04-11,STANDARD
+CUST00769,36,France,Referral,Monitor 4K,38.72,7,0.14,08-03-2023,budget
+CUST00718,26,GERMANY,email,Laptop Pro,376.88,3,0.18,2023-04-10,PREMIUM
+CUST00161,29,U.K.,organic,Monitor 4K,604.22,5,0.0,"April 20, 2023",Premium
+CUST00911,32,Italy,paid_search,Mechanical Keyboard,165.94,8,0.08,2023-01-17,standard
+CUST00720,24,GERMANY,referral,Wireless Earbuds,422.04,6,0.39,2023-05-24,budget
+CUST00683,22,U.K.,paid_search,Monitor 4K,786.82,2,0.32,"April 6, 2023",Standard
+CUST00820,56,spain,Social Media,Tablet X,513.5,2,0.36,"April 9, 2023",Enterprise
+CUST00531,48,France,Paid Search,Laptop Pro,608.55,2,0.08,2023/02/06,STANDARD
+CUST00117,28,FRANCE,email,Wireless Earbuds,,6,0.1,2023-04-20,Standard
+CUST00276,30,Spain,paid_search,Monitor 4K,696.41,1,0.06,23-03-2023,enterprise
+CUST00648,30,Italy,paid_search,Smart Watch,561.93,8,0.13,"April 19, 2023",STANDARD
+CUST00615,,FRANCE,Referral,USB-C Hub,684.81,2,0.23,2023-01-17,PREMIUM
+CUST00848,27,SPAIN,Paid Search,Wireless Earbuds,643.83,1,0.09,"April 4, 2023",premium
+CUST00623,34,France,Organic,Smart Watch,162.48,2,0.38,2023-05-06,premium
+CUST00089,31,Italy,Email,Laptop Pro,791.28,10,0.33,"April 7, 2023",Enterprise
+CUST00697,27,Germany,paid_search,Wireless Earbuds,0.01,7,0.23,2023-01-17,standard
+CUST00471,,Germany,Organic,Laptop Pro,255.07,9,0.27,2023-04-16,Standard
+CUST00165,37,italy,email,Laptop Pro,204.32,2,0.06,2023-05-17,Standard
+CUST00281,56,UK,Paid Search,Mechanical Keyboard,291.99,5,0.12,"April 27, 2023",Enterprise
+CUST00962,,spain,ORGANIC,Wireless Earbuds,103.02,2,0.29,2023-05-28,budget
+CUST00624,38,FRANCE,organic,Laptop Pro,131.12,6,0.38,2023-01-02,standard
+CUST00759,68,SPAIN,referral,Mechanical Keyboard,572.44,9,0.09,"April 8, 2023",Standard
+CUST00959,26,spain,social_media,Mechanical Keyboard,351.18,7,0.14,2023-05-24,Enterprise
+CUST00731,44,uk,ORGANIC,USB-C Hub,40.21,10,0.11,"April 4, 2023",enterprise
+CUST00690,53,uk,paid_search,Tablet X,384.32,3,0.1,2023/02/20,standard
+CUST00025,53,Germany,Email,Smart Watch,110.03,2,0.06,20-03-2023,standard
+CUST00661,39,germany,Email,USB-C Hub,619.42,5,0.24,2023/02/28,enterprise
+CUST00394,30,SPAIN,Email,Webcam HD,240.84,7,0.04,"April 22, 2023",Premium
+CUST00479,45,germany,email,Smart Watch,100.56,2,0.29,2023-04-01,Budget
+CUST00181,43,U.K.,paid_search,USB-C Hub,436.25,6,0.14,2023-04-15,Premium
+CUST00698,28,uk,Social Media,Mechanical Keyboard,435.9,7,0.29,2023-05-28,Premium
+CUST00184,59,,referral,Webcam HD,152.03,9,0.37,"April 21, 2023",premium
+CUST00642,23,france,organic,Monitor 4K,70.72,3,0.32,2023-01-10,Enterprise
+CUST00079,46,GERMANY,email,Mechanical Keyboard,215.08,5,0.15,2023-04-04,standard
+CUST00600,24,,organic,Webcam HD,609.5,2,0.24,2023-01-27,enterprise
+CUST00816,28,SPAIN,Paid Search,Smart Watch,,1,0.3,2023/02/28,STANDARD
+CUST00968,43,germany,ORGANIC,Smart Watch,132.82,8,0.11,2023-04-23,Enterprise
+CUST00900,48,,Organic,Wireless Earbuds,38.67,3,0.05,"April 13, 2023",budget
+CUST00459,72,Germany,organic,USB-C Hub,20.66,9,0.14,28-03-2023,premium
+CUST00802,61,italy,organic,USB-C Hub,,5,0.35,2023-05-16,Budget
+CUST00013,26,Italy,referral,Wireless Earbuds,350.05,4,0.3,2023-05-07,Standard
+CUST00752,75,france,ORGANIC,Laptop Pro,15000.0,4,0.11,"April 4, 2023",budget
+CUST00291,61,france,Email,Tablet X,263.43,2,0.24,2023/02/03,premium
+CUST00111,69,italy,Email,Tablet X,137.67,1,0.32,23-03-2023,Premium
+CUST00014,60,Italy,social_media,Webcam HD,213.37,2,0.24,2023/02/19,standard
+CUST00486,22,france,ORGANIC,Webcam HD,736.05,1,0.26,2023-01-06,premium
+CUST00971,68,germany,email,Mechanical Keyboard,440.54,4,0.02,"April 16, 2023",standard
+CUST00974,,Germany,email,Webcam HD,276.43,7,0.22,11-03-2023,STANDARD
+CUST00842,48,France,organic,Laptop Pro,671.58,9,0.3,2023-01-04,Standard
+CUST00638,44,Germany,Organic,Webcam HD,53.9,4,0.37,"April 15, 2023",STANDARD
+CUST00294,21,Italy,Organic,Laptop Pro,366.57,2,0.19,2023/02/07,premium
+CUST00534,29,Spain,Email,Smart Watch,316.1,4,0.16,04-03-2023,Budget
+CUST00226,23,,Organic,Smart Watch,126.96,3,0.27,2023-01-17,Enterprise
+CUST00930,74,Italy,Paid Search,USB-C Hub,527.17,3,0.27,"April 23, 2023",STANDARD
+CUST00178,21,SPAIN,Social Media,Monitor 4K,209.43,4,0.03,2023-04-28,STANDARD
+CUST00659,47,SPAIN,email,USB-C Hub,338.98,8,0.15,2023/02/15,standard
+CUST00202,26,Italy,Paid Search,Tablet X,350.04,7,0.4,2023-04-19,budget
+CUST00402,,germany,paid_search,USB-C Hub,15000.0,9,0.23,"April 5, 2023",Premium
+CUST00310,70,UK,paid_search,USB-C Hub,742.77,10,0.36,2023-04-22,Enterprise
+CUST00461,41,uk,Social Media,Wireless Earbuds,117.93,1,0.01,2023-05-16,budget
+CUST00298,47,Germany,Paid Search,Webcam HD,701.83,5,0.27,2023-04-24,Premium
+CUST00185,71,uk,Organic,Laptop Pro,677.18,4,0.06,2023/02/17,Budget
+CUST00923,59,italy,referral,Monitor 4K,774.17,9,0.11,2023-05-18,enterprise
+CUST00783,24,France,Organic,USB-C Hub,41.88,5,0.04,2023/02/20,premium
+CUST00536,71,Spain,paid_search,Monitor 4K,167.25,2,0.32,2023-05-12,PREMIUM
+CUST00295,60,France,Email,Mechanical Keyboard,346.68,2,0.25,04-03-2023,Premium
+CUST00523,49,France,email,USB-C Hub,697.31,8,0.33,17-03-2023,Enterprise
+CUST00516,19,spain,email,Tablet X,62.93,4,0.09,07-03-2023,premium
+CUST00398,24,France,paid_search,Monitor 4K,214.04,3,0.22,2023-05-04,Enterprise
+CUST00056,64,germany,social_media,Smart Watch,558.33,4,0.19,2023-05-19,enterprise
+CUST00740,29,France,social_media,Wireless Earbuds,349.72,7,0.39,22-03-2023,standard
+CUST00849,18,spain,social_media,Laptop Pro,705.4,9,0.31,2023/02/03,Standard
+CUST00429,23,SPAIN,Social Media,Wireless Earbuds,619.24,6,0.26,2023/02/06,PREMIUM
+CUST00388,48,Italy,Paid Search,Tablet X,540.02,2,0.17,2023-01-06,Standard
+CUST00836,53,France,social_media,Monitor 4K,356.06,6,0.11,2023-01-02,budget
+CUST00368,45,germany,Social Media,USB-C Hub,371.57,10,0.23,2023/02/27,Premium
+CUST00879,48,Italy,Organic,Smart Watch,180.57,6,0.34,2023-04-23,Standard
+CUST00877,75,GERMANY,social_media,Tablet X,205.77,2,0.09,2023-05-25,enterprise
+CUST00797,22,Germany,Social Media,Smart Watch,699.61,9,0.36,2023/02/27,premium
+CUST00288,44,france,ORGANIC,Wireless Earbuds,790.01,8,0.34,2023/02/25,Premium
+CUST00672,71,,Paid Search,Monitor 4K,156.6,4,0.25,2023-04-15,budget
+CUST00688,64,GERMANY,social_media,Tablet X,735.79,4,0.28,2023/02/20,budget
+CUST00399,47,,Email,Monitor 4K,160.71,7,0.26,"April 20, 2023",Budget
+CUST00137,50,germany,Organic,Tablet X,405.34,6,0.15,"April 5, 2023",Enterprise
+CUST00919,63,germany,Paid Search,Wireless Earbuds,188.18,4,0.01,2023-01-25,enterprise
+CUST00884,39,U.K.,Paid Search,Tablet X,666.81,7,0.31,2023-05-25,premium
+CUST00646,20,france,ORGANIC,Mechanical Keyboard,528.33,6,0.35,2023/02/05,Budget
+CUST00556,21,uk,Organic,USB-C Hub,722.45,7,0.27,2023-01-13,PREMIUM
+CUST00405,67,france,social_media,USB-C Hub,745.59,2,0.09,2023-05-28,Enterprise
+CUST00423,20,spain,organic,Mechanical Keyboard,543.64,4,0.03,2023-04-28,Enterprise
+CUST00518,72,spain,social_media,Monitor 4K,294.06,8,0.04,2023-05-15,budget
+CUST00249,21,FRANCE,email,Monitor 4K,43.0,7,0.09,2023/02/09,Standard
+CUST00366,48,SPAIN,organic,USB-C Hub,156.34,2,0.18,2023-05-01,premium
+CUST00052,55,Germany,social_media,Tablet X,707.67,4,0.23,2023-05-13,STANDARD
+CUST00981,59,spain,Social Media,Monitor 4K,,4,0.25,2023-01-20,Enterprise
+CUST00043,44,spain,email,Laptop Pro,316.7,1,0.12,2023-04-28,budget
+CUST00183,36,FRANCE,paid_search,USB-C Hub,211.67,9,0.27,25-03-2023,Budget
+CUST00393,47,france,Email,Monitor 4K,503.39,6,0.1,2023-05-03,enterprise
+CUST00896,71,italy,Paid Search,Tablet X,782.43,4,0.3,2023-01-23,standard
+CUST00153,64,italy,Social Media,Wireless Earbuds,466.6,2,0.18,2023-04-05,budget
+CUST00169,50,Spain,organic,Webcam HD,459.85,9,0.32,2023-05-01,budget
+CUST00261,34,germany,paid_search,Smart Watch,581.92,1,0.29,2023/02/14,Budget
+CUST00328,32,U.K.,Paid Search,Monitor 4K,357.76,1,0.05,2023-01-21,Enterprise
+CUST00511,37,italy,ORGANIC,Mechanical Keyboard,397.71,5,0.02,10-03-2023,Budget
+CUST00460,62,italy,Social Media,USB-C Hub,359.45,4,0.19,2023/02/18,budget
+CUST00899,44,SPAIN,ORGANIC,Webcam HD,721.9,-8,0.05,25-03-2023,enterprise
+CUST00934,67,spain,Paid Search,Tablet X,589.91,5,0.23,2023/02/26,enterprise
+CUST00711,,GERMANY,Social Media,Monitor 4K,773.67,7,0.09,2023-01-10,Premium
+CUST00977,44,UK,organic,Mechanical Keyboard,203.08,9,0.24,2023-01-04,budget
+CUST00054,30,France,paid_search,Monitor 4K,558.68,8,0.01,08-03-2023,budget
+CUST00456,70,Spain,ORGANIC,Mechanical Keyboard,104.82,10,0.15,2023-04-21,premium
+CUST00156,37,UK,Paid Search,Tablet X,394.25,9,0.32,10-03-2023,Premium
+CUST00893,36,italy,organic,Wireless Earbuds,137.05,10,0.24,17-03-2023,enterprise
+CUST00222,54,FRANCE,email,Webcam HD,614.56,1,0.31,2023-04-01,Premium
+CUST00360,74,SPAIN,email,Mechanical Keyboard,459.27,4,0.38,2023-04-22,Budget
+CUST00254,71,uk,ORGANIC,Wireless Earbuds,595.72,6,0.01,2023-05-12,Enterprise
+CUST00341,20,Italy,social_media,Smart Watch,667.12,5,0.23,2023-04-21,budget
+CUST00555,75,france,paid_search,Wireless Earbuds,,5,0.07,2023-01-24,Budget
+CUST00693,64,FRANCE,Paid Search,Monitor 4K,312.61,10,0.13,2023-05-16,standard
+CUST00907,,uk,organic,USB-C Hub,465.51,8,0.33,04-03-2023,Premium
+CUST00945,,uk,Referral,Wireless Earbuds,365.85,5,0.28,2023-04-06,premium
+CUST00564,47,,organic,Laptop Pro,365.86,-3,0.08,11-03-2023,Enterprise
+CUST00046,38,germany,referral,USB-C Hub,237.04,7,0.03,2023-01-24,enterprise
+CUST00581,65,France,Referral,Monitor 4K,207.26,7,0.34,2023/02/13,budget
+CUST00268,62,Italy,Organic,Smart Watch,342.91,10,0.02,2023-04-27,enterprise
+CUST00475,40,germany,Paid Search,Mechanical Keyboard,,2,0.24,2023/02/20,Premium
+CUST00150,69,Spain,Referral,Webcam HD,129.03,10,0.16,"April 24, 2023",Standard
+CUST00389,43,UK,paid_search,Laptop Pro,558.79,10,0.31,2023/02/06,Budget
+CUST00250,27,france,email,Tablet X,708.57,8,0.11,2023/02/14,standard
+CUST00595,,Germany,paid_search,Webcam HD,191.37,6,0.34,2023-05-22,Budget
+CUST00355,,germany,social_media,Smart Watch,745.93,7,0.21,2023-05-20,premium
+CUST00738,36,SPAIN,referral,Laptop Pro,416.77,3,0.21,2023-05-18,Premium
+CUST00950,52,italy,paid_search,Monitor 4K,641.09,4,0.39,"April 27, 2023",Standard
+CUST00467,,U.K.,email,Mechanical Keyboard,67.91,8,0.23,2023-05-10,Enterprise
+CUST00123,53,,email,Monitor 4K,254.9,1,0.26,"April 15, 2023",Premium
+CUST00793,33,,Referral,Laptop Pro,313.14,10,0.03,2023-04-28,Budget
+CUST00321,,U.K.,social_media,Laptop Pro,677.65,5,0.23,03-03-2023,STANDARD
+CUST01000,48,SPAIN,Paid Search,Mechanical Keyboard,286.09,9,0.25,2023-01-25,PREMIUM
+CUST00807,60,Germany,Paid Search,Monitor 4K,,7,0.01,27-03-2023,enterprise
+CUST00754,41,germany,Email,Mechanical Keyboard,712.01,3,0.24,2023-01-19,standard
+CUST00021,50,U.K.,Referral,Wireless Earbuds,684.05,2,0.27,2023/02/13,Premium
+CUST00515,66,italy,Email,Wireless Earbuds,739.39,6,0.29,2023-01-05,enterprise
+CUST00175,67,france,ORGANIC,Mechanical Keyboard,469.37,10,0.27,08-03-2023,Standard
+CUST00750,26,spain,organic,Mechanical Keyboard,352.52,10,0.35,2023-04-14,enterprise
+CUST00158,31,germany,Referral,Mechanical Keyboard,127.07,10,0.1,2023-01-22,enterprise
+CUST00999,46,UK,Email,Tablet X,609.32,1,0.16,16-03-2023,PREMIUM
+CUST00079,46,GERMANY,email,Mechanical Keyboard,215.08,5,0.15,2023-04-04,standard
+CUST00558,38,GERMANY,email,Monitor 4K,749.69,4,0.07,15-03-2023,budget
+CUST00313,56,,Referral,Mechanical Keyboard,264.85,9,0.08,"April 23, 2023",Standard
+CUST00703,,Germany,organic,Laptop Pro,25.66,10,0.38,16-03-2023,Budget
+CUST00984,33,Italy,email,Webcam HD,778.79,9,0.32,28-03-2023,PREMIUM
+CUST00470,56,U.K.,ORGANIC,Webcam HD,318.87,8,0.07,"April 24, 2023",STANDARD
+CUST00921,65,U.K.,Paid Search,Smart Watch,568.72,7,0.3,"April 20, 2023",PREMIUM
+CUST00171,67,FRANCE,Email,Monitor 4K,369.86,7,0.27,2023-05-28,enterprise
+CUST00702,58,FRANCE,Organic,Mechanical Keyboard,70.12,1,0.19,2023-05-25,Premium
+CUST00862,28,GERMANY,Referral,Tablet X,324.69,2,0.06,2023-05-24,Enterprise
+CUST00119,50,SPAIN,Social Media,Wireless Earbuds,127.95,5,0.19,18-03-2023,Premium
+CUST00242,75,uk,Referral,Monitor 4K,780.15,2,0.2,2023-05-27,budget
+CUST00976,40,France,paid_search,USB-C Hub,372.17,8,0.25,2023/02/20,STANDARD
+CUST00948,65,FRANCE,Paid Search,Laptop Pro,237.59,10,0.09,2023/02/09,standard
+CUST00396,34,france,social_media,Tablet X,745.56,4,0.37,2023-01-15,premium
+CUST00053,,uk,social_media,Wireless Earbuds,221.51,5,0.28,18-03-2023,premium
+CUST00269,52,Italy,referral,Tablet X,724.17,1,0.36,"April 22, 2023",Enterprise
+CUST00507,49,SPAIN,Referral,Smart Watch,663.8,5,0.15,2023-05-23,Premium
+CUST00964,34,,Email,Smart Watch,371.21,6,0.28,"April 12, 2023",Premium
+CUST00064,62,Germany,Social Media,Mechanical Keyboard,82.74,1,0.29,"April 9, 2023",premium
+CUST00327,22,,Email,Wireless Earbuds,15000.0,1,0.02,18-03-2023,Premium
+CUST00006,28,SPAIN,paid_search,Wireless Earbuds,741.81,9,0.13,2023-01-08,premium
+CUST00796,21,U.K.,social_media,Monitor 4K,184.96,1,0.27,09-03-2023,PREMIUM
+CUST00061,,,Organic,Tablet X,83.33,4,0.03,2023-01-14,Budget
+CUST00901,43,,Referral,Tablet X,719.99,6,0.25,2023-05-02,Premium
+CUST00466,,GERMANY,Referral,Laptop Pro,386.0,6,0.38,10-03-2023,PREMIUM
+CUST00073,67,spain,organic,USB-C Hub,652.9,7,0.32,2023-05-05,Budget
+CUST00855,47,UK,Referral,Webcam HD,230.74,2,0.04,19-03-2023,Budget
+CUST00106,72,France,paid_search,Monitor 4K,328.7,5,0.09,2023/02/03,enterprise
+CUST00953,40,Germany,ORGANIC,Webcam HD,362.43,10,0.23,2023-04-24,budget
+CUST00345,50,france,email,Wireless Earbuds,160.43,7,0.23,2023-01-24,Standard
+CUST00300,39,FRANCE,Organic,Monitor 4K,671.85,8,0.26,2023/02/04,PREMIUM
+CUST00065,61,uk,email,Laptop Pro,230.22,1,0.07,"April 21, 2023",Budget
+CUST00535,26,Spain,social_media,Mechanical Keyboard,,6,0.15,2023-04-20,Standard
+CUST00064,62,Germany,Social Media,Mechanical Keyboard,82.74,1,0.29,"April 9, 2023",premium
+CUST00918,23,UK,social_media,USB-C Hub,530.85,9,0.21,2023/02/27,enterprise
+CUST00777,32,france,ORGANIC,Smart Watch,314.42,1,0.17,2023-01-23,Premium
+CUST00858,19,uk,Referral,Webcam HD,253.94,8,0.33,"April 9, 2023",Enterprise
+CUST00142,67,italy,Paid Search,Tablet X,518.41,8,0.22,2023-05-10,Budget
+CUST00657,48,,referral,Webcam HD,738.52,10,0.08,2023/02/15,standard
+CUST00037,60,Italy,email,USB-C Hub,203.2,5,0.08,2023-01-02,standard
+CUST00987,50,Italy,Email,Webcam HD,133.87,5,0.23,2023-01-24,PREMIUM
+CUST00071,35,UK,Social Media,USB-C Hub,660.03,5,0.33,"April 22, 2023",Budget
+CUST00947,55,Italy,organic,Wireless Earbuds,312.13,2,0.38,27-03-2023,standard
+CUST00100,43,France,ORGANIC,Laptop Pro,313.43,8,0.15,2023-05-11,Enterprise
+CUST00806,72,Spain,Organic,USB-C Hub,342.09,-7,0.15,2023/02/17,Standard
+CUST00489,39,France,Organic,Mechanical Keyboard,563.11,9,0.1,"April 2, 2023",PREMIUM
+CUST00706,57,Italy,Email,Webcam HD,22.44,-6,0.14,2023-01-26,STANDARD
+CUST00606,64,,social_media,USB-C Hub,15000.0,9,0.06,2023-04-15,standard
+CUST00082,75,Italy,Email,Laptop Pro,472.07,3,0.12,2023-05-14,PREMIUM
+CUST00403,,GERMANY,ORGANIC,Wireless Earbuds,214.89,5,0.04,2023-04-19,standard
+CUST00635,63,,email,Tablet X,-50.0,2,0.23,2023-04-06,enterprise
+CUST00763,58,italy,Referral,Tablet X,229.66,10,0.34,2023-04-05,Budget
+CUST00487,70,UK,Organic,Webcam HD,69.89,2,0.24,"April 8, 2023",Premium
+CUST00626,,Italy,paid_search,Laptop Pro,546.58,4,0.26,2023/02/10,Enterprise
+CUST00392,29,SPAIN,social_media,USB-C Hub,668.45,9,0.21,2023-04-10,Standard
+CUST00083,68,SPAIN,social_media,Mechanical Keyboard,663.26,8,0.12,26-03-2023,Premium
+CUST00422,62,UK,referral,Wireless Earbuds,575.37,6,0.15,2023-04-05,PREMIUM
+CUST00247,47,France,ORGANIC,Smart Watch,9999.99,3,0.16,2023-05-21,Premium
+CUST00074,26,SPAIN,email,USB-C Hub,363.44,9,0.01,2023/02/14,PREMIUM
+CUST00072,46,SPAIN,referral,USB-C Hub,314.22,6,0.39,2023/02/19,budget
+CUST00773,42,Spain,referral,Smart Watch,586.83,3,0.4,2023/02/25,budget
+CUST00669,18,FRANCE,social_media,Monitor 4K,120.73,7,0.03,2023/02/05,standard
+CUST00689,29,Spain,Email,Laptop Pro,763.86,1,0.06,2023/02/05,Premium
+CUST00598,,france,social_media,Mechanical Keyboard,665.8,9,0.03,2023-04-04,Enterprise
+CUST00492,49,italy,Organic,Mechanical Keyboard,,4,0.39,2023-01-20,STANDARD
+CUST00305,73,FRANCE,Organic,Webcam HD,236.96,9,0.26,2023-04-27,standard
+CUST00686,65,spain,paid_search,Smart Watch,251.36,3,0.26,2023/02/24,Enterprise
+CUST00376,24,France,referral,Laptop Pro,-50.0,9,0.03,20-03-2023,PREMIUM
+CUST00473,45,italy,Email,Mechanical Keyboard,96.66,10,0.31,2023-05-08,Enterprise
+CUST00107,51,SPAIN,paid_search,USB-C Hub,523.45,3,0.06,2023/02/06,Enterprise
+CUST00712,39,,email,Tablet X,306.83,6,0.23,2023-01-10,premium
+CUST00343,26,Spain,ORGANIC,Tablet X,184.98,3,0.24,2023-01-22,standard
+CUST00285,63,germany,Email,Webcam HD,415.71,3,0.35,2023/02/10,Premium
+CUST00728,62,GERMANY,Referral,USB-C Hub,556.59,1,0.08,28-03-2023,standard
+CUST00634,19,UK,Paid Search,USB-C Hub,507.68,4,0.2,02-03-2023,Standard
+CUST00077,62,Germany,organic,Laptop Pro,299.6,7,0.21,"April 22, 2023",PREMIUM
+CUST00649,44,GERMANY,ORGANIC,Smart Watch,52.91,4,0.26,2023-05-08,Budget
+CUST00732,39,Italy,Organic,USB-C Hub,134.14,4,0.04,2023/02/13,Premium
+CUST00140,63,germany,social_media,Mechanical Keyboard,515.34,9,0.25,"April 18, 2023",Premium
+CUST00330,46,spain,Social Media,Laptop Pro,126.38,7,0.34,21-03-2023,PREMIUM
+CUST00878,69,france,paid_search,Laptop Pro,160.86,1,0.24,2023/02/10,PREMIUM
+CUST00647,39,Germany,social_media,Laptop Pro,132.79,4,0.33,2023-01-14,STANDARD
+CUST00432,56,italy,organic,Tablet X,510.34,4,0.06,2023-05-12,premium
+CUST00726,38,France,organic,Wireless Earbuds,88.5,5,0.01,2023-01-17,Standard
+CUST00304,60,Italy,Email,Monitor 4K,715.81,10,0.26,2023/02/17,Budget
+CUST00411,64,uk,Organic,Smart Watch,504.38,3,0.33,2023-01-11,Premium
+CUST00778,22,Spain,email,Wireless Earbuds,81.61,-2,0.33,2023-04-05,PREMIUM
+CUST00286,65,Germany,Referral,Wireless Earbuds,530.46,4,0.3,14-03-2023,STANDARD
+CUST00208,53,spain,referral,Tablet X,165.38,7,0.29,2023/02/15,Enterprise
+CUST00795,56,Spain,paid_search,Webcam HD,445.16,8,0.09,"April 2, 2023",Enterprise
+CUST00537,,Italy,referral,Smart Watch,547.68,2,0.16,"April 4, 2023",PREMIUM
+CUST00033,50,France,Social Media,Tablet X,21.32,9,0.38,2023-05-22,standard
+CUST00170,18,,paid_search,Smart Watch,69.73,1,0.03,2023-04-02,Standard
+CUST00859,72,Italy,email,Smart Watch,164.15,4,0.3,"April 7, 2023",Budget
+CUST00885,53,spain,Email,Mechanical Keyboard,381.53,10,0.31,06-03-2023,budget
+CUST00061,,,Organic,Tablet X,83.33,4,0.03,2023-01-14,Budget
+CUST00171,67,FRANCE,Email,Monitor 4K,369.86,7,0.27,2023-05-28,enterprise
+CUST00801,58,italy,Organic,Laptop Pro,347.74,9,0.24,2023/02/12,standard
+CUST00372,73,Italy,email,Tablet X,439.98,5,0.27,2023-04-25,Budget
+CUST00172,73,GERMANY,Organic,Wireless Earbuds,119.33,4,0.3,15-03-2023,enterprise
+CUST00695,25,spain,email,Wireless Earbuds,219.1,6,0.2,2023-05-12,premium
+CUST00363,54,Germany,ORGANIC,Tablet X,593.63,5,0.08,2023/02/27,Enterprise
+CUST00774,49,spain,referral,Monitor 4K,127.81,4,0.22,"April 18, 2023",Budget
+CUST00018,47,germany,Organic,Webcam HD,96.37,9,0.39,2023/02/06,budget
+CUST00228,25,italy,Social Media,USB-C Hub,129.07,5,0.1,"April 20, 2023",Enterprise
+CUST00146,50,Spain,referral,Mechanical Keyboard,326.73,8,0.09,02-03-2023,premium
+CUST00200,43,GERMANY,Paid Search,Webcam HD,274.19,5,0.16,2023-01-19,standard
+CUST00524,,Germany,ORGANIC,Laptop Pro,560.76,6,0.11,2023-04-21,STANDARD
+CUST00408,23,spain,Referral,Monitor 4K,125.2,9,0.16,"April 7, 2023",enterprise
+CUST00095,74,germany,Social Media,USB-C Hub,589.1,6,0.27,05-03-2023,Budget
+CUST00905,54,U.K.,email,USB-C Hub,112.47,5,0.09,2023/02/10,Standard
+CUST00628,,uk,referral,Mechanical Keyboard,66.94,8,0.1,2023-05-13,STANDARD
+CUST00447,65,Germany,organic,Mechanical Keyboard,176.43,5,0.13,2023-04-22,Premium
+CUST00464,54,Spain,social_media,Smart Watch,82.45,9,0.39,15-03-2023,enterprise
+CUST00315,75,uk,Referral,Mechanical Keyboard,29.96,2,0.06,2023-05-02,standard
+CUST00356,70,FRANCE,Email,Webcam HD,532.37,9,0.01,"April 17, 2023",enterprise
+CUST00967,19,SPAIN,Paid Search,Wireless Earbuds,368.48,5,0.24,24-03-2023,premium
+CUST00303,54,,email,Tablet X,283.87,9,0.25,2023-04-22,standard
+CUST00760,,FRANCE,Paid Search,Wireless Earbuds,521.08,4,0.08,2023-01-01,STANDARD
+CUST00991,,germany,email,Mechanical Keyboard,,6,0.3,"April 13, 2023",Budget
+CUST00829,52,france,organic,Mechanical Keyboard,,1,0.03,23-03-2023,Enterprise
+CUST00233,69,FRANCE,Referral,USB-C Hub,670.93,2,0.17,2023/02/02,standard
+CUST00097,44,GERMANY,Email,Monitor 4K,775.35,10,0.04,"April 7, 2023",PREMIUM
+CUST00130,49,GERMANY,Referral,Mechanical Keyboard,81.56,10,0.07,11-03-2023,Premium
+CUST00557,54,,Referral,Smart Watch,760.75,9,0.35,2023/02/20,Premium
+CUST00678,40,FRANCE,paid_search,Laptop Pro,364.81,1,0.32,2023-05-22,Premium
+CUST00437,40,U.K.,ORGANIC,Webcam HD,404.15,3,0.09,07-03-2023,premium
+CUST00684,56,GERMANY,Email,Monitor 4K,561.1,6,0.3,2023-05-11,Budget
+CUST00065,61,uk,email,Laptop Pro,230.22,1,0.07,"April 21, 2023",Budget
+CUST00583,50,germany,referral,Webcam HD,459.18,7,0.17,20-03-2023,PREMIUM
+CUST00696,45,,paid_search,Tablet X,301.9,1,0.26,20-03-2023,Budget
+CUST00998,25,Spain,Organic,Webcam HD,187.7,8,0.0,2023-04-28,Premium
+CUST00844,67,Italy,email,Webcam HD,588.01,1,0.16,2023/02/22,PREMIUM
+CUST00745,,U.K.,paid_search,Smart Watch,,7,0.13,2023-01-06,standard
+CUST00563,44,U.K.,social_media,Monitor 4K,663.03,5,0.14,"April 24, 2023",enterprise
+CUST00500,55,FRANCE,email,Laptop Pro,,8,0.2,2023-04-17,budget
+CUST00350,69,,email,Smart Watch,617.37,2,0.35,2023-04-09,standard
+CUST00748,36,Germany,referral,Smart Watch,138.95,9,0.11,2023-01-28,Standard
+CUST00191,54,Italy,organic,Wireless Earbuds,769.95,10,0.33,2023-04-03,Standard
+CUST00577,64,uk,ORGANIC,Smart Watch,241.61,3,0.33,"April 22, 2023",Enterprise
+CUST00346,31,Spain,email,Webcam HD,667.68,10,0.23,2023/02/20,enterprise
+CUST00527,49,spain,social_media,Wireless Earbuds,192.47,4,0.22,2023-05-27,enterprise
+CUST00014,60,Italy,social_media,Webcam HD,213.37,2,0.24,2023/02/19,standard
+CUST00121,19,spain,organic,Monitor 4K,795.73,6,0.13,2023-01-27,STANDARD
+CUST00652,53,germany,ORGANIC,Tablet X,15000.0,2,0.27,2023-04-21,Premium
+CUST00559,55,france,referral,USB-C Hub,445.68,8,0.39,2023/02/12,Budget
+CUST00270,66,Spain,ORGANIC,Wireless Earbuds,118.43,7,0.27,2023/02/27,PREMIUM
+CUST00856,73,france,Organic,Laptop Pro,458.4,8,0.36,2023-05-28,PREMIUM
+CUST00940,65,france,paid_search,Webcam HD,477.23,6,0.15,17-03-2023,premium
+CUST00866,74,FRANCE,Social Media,Monitor 4K,215.38,1,0.03,20-03-2023,premium
+CUST00416,28,france,social_media,USB-C Hub,796.88,9,0.02,13-03-2023,premium
+CUST00193,22,GERMANY,email,Monitor 4K,514.62,8,0.14,2023-04-14,PREMIUM
+CUST00353,48,Germany,Paid Search,USB-C Hub,127.69,2,0.18,2023-05-06,Premium
+CUST00496,24,germany,Social Media,Tablet X,387.37,8,0.17,2023/02/20,Budget
+CUST00493,52,SPAIN,paid_search,Webcam HD,235.61,4,0.06,2023-04-16,PREMIUM
+CUST00586,50,France,Referral,Monitor 4K,581.84,5,0.23,"April 1, 2023",Premium
+CUST00012,19,France,social_media,Mechanical Keyboard,462.54,2,0.19,2023-01-25,enterprise
+CUST00643,22,France,Email,Laptop Pro,317.54,2,0.16,"April 26, 2023",Enterprise
+CUST00407,43,Spain,email,Smart Watch,327.57,3,0.19,2023-05-02,enterprise
+CUST00166,58,U.K.,Paid Search,USB-C Hub,124.18,3,0.4,14-03-2023,enterprise
+CUST00244,32,France,paid_search,Wireless Earbuds,141.22,3,0.13,2023-01-18,STANDARD
+CUST00035,30,spain,Email,Monitor 4K,500.1,5,0.33,10-03-2023,standard
+CUST00630,74,spain,paid_search,USB-C Hub,515.43,8,0.26,11-03-2023,standard
+CUST00015,,,Email,Laptop Pro,690.52,2,0.11,2023-04-07,enterprise
+CUST00860,36,Italy,Organic,Webcam HD,320.94,2,0.33,2023/02/01,Standard
+CUST00203,73,,Social Media,Laptop Pro,718.49,9,0.37,2023-01-25,standard
+CUST00915,63,FRANCE,referral,Webcam HD,42.59,5,0.36,2023-04-02,enterprise
+CUST00395,,FRANCE,ORGANIC,Laptop Pro,97.03,10,0.16,2023-04-17,Enterprise
+CUST00854,26,italy,Paid Search,Tablet X,504.29,10,0.02,2023-04-05,budget
+CUST00594,45,italy,social_media,Smart Watch,713.53,2,0.38,15-03-2023,budget
+CUST00149,24,spain,social_media,USB-C Hub,132.53,10,0.2,2023-01-02,PREMIUM
+CUST00384,52,france,ORGANIC,Smart Watch,361.96,1,0.06,2023-04-07,STANDARD
+CUST00433,20,Italy,email,Mechanical Keyboard,104.93,3,0.11,2023-05-23,Enterprise
+CUST00803,40,GERMANY,Referral,Monitor 4K,108.44,3,0.15,"April 20, 2023",PREMIUM
+CUST00135,63,Spain,paid_search,Mechanical Keyboard,176.14,3,0.18,2023-05-15,Premium
+CUST00274,,U.K.,social_media,Tablet X,229.5,6,0.33,10-03-2023,Standard
+CUST00592,55,germany,paid_search,Mechanical Keyboard,59.72,1,0.34,2023-04-14,Budget
+CUST00530,31,FRANCE,Organic,Monitor 4K,80.63,8,0.02,2023-01-02,enterprise
+CUST00533,51,germany,paid_search,Mechanical Keyboard,23.38,2,0.37,2023-05-16,STANDARD
+CUST00771,56,FRANCE,ORGANIC,Monitor 4K,549.96,3,0.27,"April 27, 2023",Standard
+CUST00474,51,GERMANY,Email,Wireless Earbuds,,1,0.0,2023-01-17,Premium
+CUST00337,74,Italy,Organic,Smart Watch,512.67,10,0.31,2023/02/02,enterprise
+CUST00309,41,,Organic,Laptop Pro,661.03,7,0.24,2023/02/04,budget
+CUST00190,72,France,Referral,Laptop Pro,559.98,10,0.02,2023-01-22,Standard
+CUST00257,73,GERMANY,Organic,USB-C Hub,477.09,6,0.05,2023/02/24,budget
+CUST00232,58,,Referral,Monitor 4K,519.62,9,0.11,03-03-2023,enterprise
+CUST00087,60,,Referral,Monitor 4K,710.62,2,0.25,02-03-2023,STANDARD
+CUST00108,66,Italy,Organic,Wireless Earbuds,381.88,10,0.18,"April 21, 2023",Enterprise
+CUST00898,26,U.K.,Referral,Tablet X,476.11,3,0.32,11-03-2023,Premium
+CUST00089,31,Italy,Email,Laptop Pro,791.28,10,0.33,"April 7, 2023",Enterprise
+CUST00098,32,uk,Organic,USB-C Hub,614.83,10,0.17,"April 25, 2023",Enterprise
+CUST00085,70,Italy,social_media,Smart Watch,503.25,9,0.24,2023-05-03,Budget
+CUST00851,24,U.K.,Paid Search,Mechanical Keyboard,359.94,6,0.06,2023/02/09,PREMIUM
+CUST00147,56,U.K.,Email,Webcam HD,,2,0.35,2023-05-12,budget
+CUST00133,,UK,Email,USB-C Hub,45.26,3,0.38,15-03-2023,Premium
+CUST00528,63,SPAIN,Organic,Monitor 4K,658.7,1,0.12,05-03-2023,Budget
+CUST00225,26,italy,paid_search,Webcam HD,15000.0,2,0.17,2023/02/16,Premium
+CUST00129,73,UK,organic,USB-C Hub,360.82,7,0.36,2023-04-11,PREMIUM
+CUST00201,52,FRANCE,Email,Laptop Pro,572.53,8,0.33,2023-01-27,budget
+CUST00585,45,France,referral,Mechanical Keyboard,724.26,4,0.12,2023-01-18,Premium
+CUST00505,47,italy,organic,USB-C Hub,569.8,9,0.08,08-03-2023,enterprise
+CUST00749,33,Italy,Social Media,Tablet X,100.39,9,0.08,"April 21, 2023",PREMIUM
+CUST00099,59,SPAIN,organic,Mechanical Keyboard,15000.0,5,0.14,2023/02/28,PREMIUM
+CUST00629,31,italy,Referral,Mechanical Keyboard,459.2,5,0.28,2023/02/24,enterprise
+CUST00375,46,spain,ORGANIC,Wireless Earbuds,203.01,5,0.28,2023-01-07,PREMIUM
+CUST00828,24,france,paid_search,Laptop Pro,794.96,7,0.04,2023-05-26,STANDARD
+CUST00839,32,,Paid Search,Webcam HD,291.15,5,0.12,2023-01-04,PREMIUM
+CUST00714,,uk,referral,USB-C Hub,673.03,8,0.06,05-03-2023,premium
+CUST00264,59,FRANCE,email,Monitor 4K,180.33,4,0.22,2023-05-18,Standard
+CUST00481,64,UK,Organic,Tablet X,-50.0,2,0.37,11-03-2023,Standard
+CUST00656,68,Italy,email,Smart Watch,708.29,9,0.21,2023/02/11,STANDARD
+CUST00319,63,,Email,USB-C Hub,490.64,4,0.07,2023-05-03,PREMIUM
+CUST00001,19,,Paid Search,Tablet X,547.83,9,0.17,2023-01-03,standard
+CUST00618,64,uk,email,Wireless Earbuds,379.53,8,0.06,2023-05-11,Premium
+CUST00989,62,Spain,social_media,Webcam HD,483.65,3,0.12,2023/02/12,Enterprise
+CUST00832,71,uk,paid_search,Tablet X,405.79,-4,0.09,2023-04-07,Budget
+CUST00550,57,,Organic,Smart Watch,461.81,9,0.08,2023-01-21,Standard
+CUST00755,46,U.K.,Organic,Smart Watch,255.15,8,0.08,2023-05-05,premium
+CUST00476,25,France,email,Wireless Earbuds,525.37,3,0.28,10-03-2023,Budget
+CUST00488,45,GERMANY,Email,Monitor 4K,469.25,3,0.39,2023/02/25,premium
+CUST00887,41,Germany,Email,Mechanical Keyboard,494.24,2,0.26,28-03-2023,PREMIUM
+CUST00068,21,germany,Referral,USB-C Hub,364.79,1,0.22,15-03-2023,Budget
+CUST00699,54,UK,social_media,Wireless Earbuds,603.67,-5,0.07,2023-04-01,Premium
+CUST00890,59,france,ORGANIC,Webcam HD,,4,0.29,09-03-2023,premium
+CUST00835,74,France,Organic,Tablet X,-50.0,3,0.19,"April 15, 2023",STANDARD
+CUST00358,30,SPAIN,organic,Smart Watch,586.39,9,0.14,08-03-2023,Enterprise
+CUST00016,74,italy,email,Webcam HD,337.51,2,0.17,2023-04-14,Budget
+CUST00122,26,france,Paid Search,Webcam HD,570.32,8,0.36,2023-01-09,standard
+CUST00700,,,Social Media,Monitor 4K,153.09,6,0.05,2023-04-06,enterprise
+CUST00174,22,France,email,Laptop Pro,700.33,4,0.16,2023/02/18,standard
+CUST00538,,germany,social_media,Tablet X,115.75,7,0.11,2023-05-25,Enterprise
+CUST00613,41,Italy,Referral,Monitor 4K,327.93,5,0.25,2023-04-23,Budget
+CUST00387,65,UK,Organic,Tablet X,263.45,6,0.29,2023-05-18,enterprise
+CUST00553,27,germany,ORGANIC,Mechanical Keyboard,690.95,2,0.34,27-03-2023,Standard
+CUST00043,44,spain,email,Laptop Pro,316.7,1,0.12,2023-04-28,budget
+CUST00418,54,FRANCE,Social Media,Mechanical Keyboard,442.94,4,0.23,2023-05-26,standard
+CUST00148,43,france,email,Tablet X,321.35,8,0.11,"April 22, 2023",Enterprise
+CUST00036,55,italy,Email,USB-C Hub,186.69,8,0.38,2023-05-06,Premium
+CUST00853,62,GERMANY,Referral,USB-C Hub,347.99,7,0.37,2023-01-25,budget
+CUST00679,37,Spain,organic,Laptop Pro,177.36,4,0.1,2023-01-01,budget
+CUST00340,20,germany,referral,Tablet X,53.39,4,0.32,2023-04-16,Budget
+CUST00054,30,France,paid_search,Monitor 4K,558.68,8,0.01,08-03-2023,budget
+CUST00030,39,UK,Social Media,Tablet X,104.31,1,0.09,2023-04-12,Standard
+CUST00938,71,germany,ORGANIC,Mechanical Keyboard,457.18,8,0.1,2023-01-18,budget
+CUST00637,61,france,Email,Mechanical Keyboard,21.52,7,0.38,2023-01-28,STANDARD
+CUST00272,68,spain,Organic,Monitor 4K,474.49,2,0.23,2023-01-26,Standard
+CUST00910,68,SPAIN,social_media,Tablet X,704.51,1,0.25,2023/02/05,Enterprise
+CUST00641,48,germany,social_media,Laptop Pro,204.66,2,0.25,2023-01-21,Budget
+CUST00414,60,uk,Email,USB-C Hub,,7,0.15,2023-05-04,STANDARD
+CUST00314,61,FRANCE,Email,Wireless Earbuds,271.46,2,0.22,"April 19, 2023",budget
+CUST00209,18,,paid_search,Tablet X,640.89,10,0.35,2023/02/12,STANDARD
+CUST00510,22,france,paid_search,USB-C Hub,523.92,6,0.27,"April 27, 2023",enterprise
+CUST00031,73,germany,paid_search,Laptop Pro,237.31,2,0.11,2023-05-17,budget
+CUST00966,47,Germany,organic,Smart Watch,59.06,10,0.1,22-03-2023,Standard
+CUST00113,21,UK,Email,USB-C Hub,549.14,5,0.34,"April 28, 2023",PREMIUM
+CUST00374,,GERMANY,paid_search,USB-C Hub,228.63,7,0.18,24-03-2023,Enterprise
+CUST00814,31,spain,Organic,Webcam HD,399.48,2,0.17,21-03-2023,Budget
+CUST00685,,france,email,Webcam HD,201.29,10,0.01,2023-01-20,Premium
+CUST00864,54,,Referral,Mechanical Keyboard,765.05,6,0.33,2023-01-02,premium
+CUST00713,30,uk,Social Media,Monitor 4K,549.86,3,0.24,2023/02/04,budget
+CUST00179,64,uk,paid_search,Laptop Pro,490.28,2,0.3,2023-05-22,enterprise
+CUST00177,60,spain,Referral,USB-C Hub,253.91,3,0.19,2023/02/10,PREMIUM
+CUST00430,63,france,Social Media,Mechanical Keyboard,368.08,3,0.05,2023/02/01,Enterprise
+CUST00162,39,Germany,referral,Webcam HD,413.29,5,0.05,2023/02/24,Budget
+CUST00425,59,U.K.,organic,Smart Watch,53.08,4,0.16,2023-05-02,enterprise
+CUST00633,70,spain,email,USB-C Hub,653.26,1,0.15,2023/02/15,premium
+CUST00381,67,spain,Paid Search,Tablet X,167.09,9,0.1,2023-05-24,budget
+CUST00846,46,U.K.,Referral,Wireless Earbuds,712.64,7,0.38,10-03-2023,standard
+CUST00115,39,uk,ORGANIC,Smart Watch,302.23,6,0.38,25-03-2023,Budget
+CUST00761,41,GERMANY,Organic,Mechanical Keyboard,496.96,6,0.25,2023-01-27,STANDARD
+CUST00611,32,GERMANY,Paid Search,Mechanical Keyboard,466.76,3,0.21,2023/02/04,STANDARD
+CUST00063,52,germany,Email,Wireless Earbuds,75.7,3,0.24,"April 10, 2023",Budget
+CUST00090,73,germany,social_media,Wireless Earbuds,236.27,3,0.22,2023/02/04,premium
+CUST00021,50,U.K.,Referral,Wireless Earbuds,684.05,2,0.27,2023/02/13,Premium
+CUST00924,19,Spain,Social Media,USB-C Hub,372.77,10,0.16,2023/02/15,STANDARD
+CUST00160,30,UK,Paid Search,USB-C Hub,619.61,10,0.3,2023-01-06,budget
+CUST00532,,FRANCE,Paid Search,USB-C Hub,629.03,10,0.23,2023-01-27,Enterprise
+CUST00132,68,france,Organic,Monitor 4K,549.94,1,0.24,2023-04-02,PREMIUM
+CUST00010,25,Italy,Referral,Mechanical Keyboard,248.93,3,0.38,2023-05-09,enterprise
+CUST00891,72,uk,social_media,Laptop Pro,80.43,8,0.03,2023/02/11,Enterprise
+CUST00182,64,Spain,social_media,Tablet X,458.77,4,0.01,"April 19, 2023",Enterprise
+CUST00255,54,germany,referral,Mechanical Keyboard,,1,0.09,"April 16, 2023",premium
+CUST00145,36,spain,email,Monitor 4K,144.57,6,0.29,2023/02/25,PREMIUM
+CUST00047,,GERMANY,paid_search,Smart Watch,608.3,4,0.01,2023/02/08,PREMIUM
+CUST00332,23,Germany,paid_search,USB-C Hub,684.14,3,0.09,07-03-2023,Premium
+CUST00663,27,uk,Social Media,Tablet X,390.06,9,0.22,2023-04-24,Budget
+CUST00282,24,france,Referral,USB-C Hub,240.49,2,0.13,21-03-2023,STANDARD
+CUST00744,41,Germany,social_media,Monitor 4K,230.2,8,0.18,2023/02/12,budget
+CUST00483,,spain,Email,Tablet X,103.28,6,0.35,2023-04-24,standard
+CUST00843,39,Spain,referral,USB-C Hub,399.46,6,0.33,23-03-2023,STANDARD
+CUST00095,74,germany,Social Media,USB-C Hub,589.1,6,0.27,05-03-2023,Budget
+CUST00863,63,uk,ORGANIC,Mechanical Keyboard,740.31,2,0.26,2023-04-16,Enterprise
+CUST00087,60,,Referral,Monitor 4K,710.62,2,0.25,02-03-2023,STANDARD
+CUST00719,69,,paid_search,Laptop Pro,99.52,3,0.39,2023-05-27,PREMIUM
+CUST00235,51,SPAIN,Paid Search,Wireless Earbuds,701.3,2,0.01,2023-04-09,enterprise
+CUST00308,39,SPAIN,email,Webcam HD,372.98,2,0.09,12-03-2023,Standard
+CUST00156,37,UK,Paid Search,Tablet X,394.25,9,0.32,10-03-2023,Premium
+CUST00445,27,germany,social_media,Webcam HD,624.92,3,0.04,"April 22, 2023",PREMIUM
+CUST00067,43,uk,Referral,Laptop Pro,272.15,7,0.33,2023-01-22,enterprise
+CUST00318,61,GERMANY,Referral,Laptop Pro,15000.0,4,0.31,2023-04-27,standard
+CUST00993,48,U.K.,Social Media,Laptop Pro,195.36,4,0.11,2023-05-26,Premium
+CUST00790,47,GERMANY,ORGANIC,Mechanical Keyboard,303.4,2,0.28,2023-04-09,Budget
+CUST00103,21,france,paid_search,Mechanical Keyboard,616.05,5,0.0,2023-05-14,PREMIUM
+CUST00410,40,italy,Email,Laptop Pro,292.78,8,0.18,2023/02/07,STANDARD
+CUST00431,18,Spain,referral,Webcam HD,,8,0.24,2023-04-15,budget
+CUST00772,24,Germany,referral,USB-C Hub,574.82,2,0.34,2023/02/25,PREMIUM
+CUST00008,33,,Referral,Mechanical Keyboard,475.16,6,0.4,"April 16, 2023",Premium
+CUST00909,38,FRANCE,Referral,USB-C Hub,420.02,2,0.13,2023-01-14,Premium
+CUST00468,,Spain,Organic,Wireless Earbuds,236.72,3,0.11,01-03-2023,Premium
+CUST00115,39,uk,ORGANIC,Smart Watch,302.23,6,0.38,25-03-2023,Budget
+CUST00521,71,spain,Paid Search,Webcam HD,670.98,5,0.3,2023/02/01,premium
+CUST00928,45,,Organic,Monitor 4K,,9,0.07,2023-04-28,Premium
+CUST00490,72,Italy,email,Monitor 4K,,8,0.0,2023-01-23,Enterprise
+CUST00369,69,germany,Referral,Monitor 4K,644.03,3,0.0,2023-04-16,PREMIUM
+CUST00520,55,UK,Social Media,Smart Watch,15000.0,7,0.18,"April 25, 2023",PREMIUM
+CUST00093,45,Italy,Organic,Webcam HD,721.43,6,0.03,20-03-2023,Enterprise
+CUST00216,45,France,Email,Tablet X,370.79,6,0.03,2023-01-25,standard
+CUST00875,24,france,referral,Tablet X,256.67,4,0.02,2023/02/18,Enterprise
+CUST00426,66,Italy,organic,Tablet X,257.55,5,0.17,"April 2, 2023",enterprise
+CUST00325,50,Spain,referral,Laptop Pro,269.84,2,0.07,"April 18, 2023",premium
+CUST00367,42,italy,Organic,USB-C Hub,165.98,5,0.19,"April 11, 2023",STANDARD
+CUST00620,68,UK,Paid Search,Smart Watch,765.03,9,0.02,"April 17, 2023",standard
+CUST00501,69,,Organic,Webcam HD,607.4,7,0.05,08-03-2023,Premium
+CUST00124,75,Spain,email,Laptop Pro,580.46,5,0.25,2023/02/19,budget
+CUST00215,67,UK,referral,Smart Watch,443.62,6,0.3,2023-05-15,enterprise
+CUST00167,66,SPAIN,Email,Tablet X,484.74,2,0.21,03-03-2023,Enterprise
+CUST00125,60,France,Referral,USB-C Hub,415.72,9,0.16,2023-04-02,budget
+CUST00529,56,SPAIN,social_media,Wireless Earbuds,,2,0.34,2023/02/23,standard
+CUST00742,75,italy,referral,Laptop Pro,276.27,6,0.14,2023-05-06,budget
+CUST00593,56,,Referral,Mechanical Keyboard,420.42,10,0.36,2023-04-08,premium
+CUST00519,36,FRANCE,Social Media,Monitor 4K,87.14,4,0.4,"April 11, 2023",Premium
+CUST00180,31,uk,social_media,Mechanical Keyboard,,4,0.05,2023-04-08,Enterprise
+CUST00096,,uk,Organic,Smart Watch,310.66,3,0.23,"April 18, 2023",STANDARD
+CUST00128,,germany,organic,Tablet X,261.86,7,0.22,02-03-2023,standard
+CUST00605,43,UK,organic,Wireless Earbuds,512.65,9,0.17,2023-05-23,enterprise
+CUST00779,26,,Referral,Mechanical Keyboard,366.3,1,0.06,2023-05-02,Enterprise
+CUST00211,70,Italy,Paid Search,Smart Watch,206.09,2,0.28,"April 13, 2023",budget
+CUST00932,27,Spain,Organic,Laptop Pro,561.36,9,0.04,"April 15, 2023",Enterprise
+CUST00158,31,germany,Referral,Mechanical Keyboard,127.07,10,0.1,2023-01-22,enterprise
+CUST00450,75,italy,Email,Webcam HD,657.6,9,0.37,2023-04-19,PREMIUM
+CUST00458,68,U.K.,Email,Mechanical Keyboard,579.88,6,0.23,"April 17, 2023",budget
+CUST00051,58,U.K.,referral,Wireless Earbuds,773.07,5,0.37,2023-04-15,budget
+CUST00390,57,GERMANY,Email,Laptop Pro,567.04,2,0.09,"April 26, 2023",STANDARD
+CUST00808,56,GERMANY,social_media,Wireless Earbuds,208.63,7,0.26,2023-01-26,Enterprise
+CUST00914,74,U.K.,Paid Search,Monitor 4K,536.69,2,0.38,2023-05-04,STANDARD
+CUST00762,35,FRANCE,Paid Search,Laptop Pro,626.99,10,0.3,2023-04-21,Standard
+CUST00455,39,SPAIN,paid_search,Wireless Earbuds,746.07,10,0.05,"April 15, 2023",STANDARD
+CUST00812,32,Germany,paid_search,Tablet X,314.92,5,0.11,2023/02/21,premium
+CUST00195,24,France,organic,Mechanical Keyboard,99.74,2,0.18,"April 17, 2023",budget
+CUST00127,39,uk,Email,Wireless Earbuds,785.04,8,0.32,2023-01-23,Budget
+CUST00451,69,U.K.,referral,Smart Watch,573.97,8,0.38,2023/02/28,Enterprise
+CUST00141,28,italy,email,Wireless Earbuds,723.56,6,0.23,2023-01-03,premium
+CUST00028,,GERMANY,email,Wireless Earbuds,,6,0.32,2023-01-12,standard
+CUST00823,,Germany,email,Tablet X,236.88,10,0.32,2023-05-03,Enterprise
+CUST00956,39,UK,organic,Smart Watch,645.16,8,0.18,2023-05-05,standard
+CUST00223,28,Spain,referral,Laptop Pro,796.64,3,0.12,03-03-2023,STANDARD
+CUST00239,73,Germany,Paid Search,USB-C Hub,307.76,5,0.12,"April 8, 2023",Budget
+CUST00278,70,Spain,Referral,Monitor 4K,43.84,6,0.18,2023-04-19,enterprise
+CUST00435,,Spain,ORGANIC,Smart Watch,431.1,9,0.08,2023-01-04,Enterprise
+CUST00168,71,SPAIN,Referral,Tablet X,275.93,9,0.27,2023-05-19,Budget
+CUST00311,26,Spain,organic,Laptop Pro,476.39,9,0.36,2023-05-19,PREMIUM
+CUST00207,37,france,Organic,Laptop Pro,548.17,3,0.3,"April 6, 2023",enterprise
+CUST00214,46,Spain,ORGANIC,Smart Watch,192.01,1,0.22,2023/02/25,Budget
+CUST00674,64,U.K.,paid_search,Webcam HD,114.56,6,0.04,14-03-2023,Budget
+CUST00236,,,email,Smart Watch,63.24,10,0.06,2023-01-19,Premium
+CUST00323,66,italy,Referral,Webcam HD,785.28,1,0.14,2023/02/21,Enterprise
+CUST00969,70,U.K.,Referral,Webcam HD,49.86,10,0.26,2023-01-13,enterprise
+CUST00071,35,UK,Social Media,USB-C Hub,660.03,5,0.33,"April 22, 2023",Budget
+CUST00357,57,FRANCE,Email,Laptop Pro,781.0,2,0.31,22-03-2023,budget
+CUST00554,34,Italy,email,Tablet X,169.69,4,0.12,2023-04-18,budget
+CUST00131,60,Germany,Paid Search,Webcam HD,558.02,6,0.29,20-03-2023,budget
+CUST00799,54,spain,organic,Tablet X,500.88,6,0.33,2023-05-24,STANDARD
+CUST00041,66,germany,Email,Mechanical Keyboard,508.86,5,0.29,2023/02/09,STANDARD
+CUST00617,65,Spain,organic,Smart Watch,54.85,8,0.23,26-03-2023,budget
+CUST00547,52,GERMANY,organic,Webcam HD,421.51,7,0.28,"April 1, 2023",STANDARD
+CUST00027,26,Italy,Paid Search,Wireless Earbuds,353.6,1,0.38,2023-05-05,enterprise
+CUST00098,32,uk,Organic,USB-C Hub,614.83,10,0.17,"April 25, 2023",Enterprise
+CUST00186,57,Italy,Email,Webcam HD,,9,0.0,"April 24, 2023",Standard
+CUST00316,68,FRANCE,Paid Search,Mechanical Keyboard,631.8,4,0.01,2023-04-04,Enterprise
+CUST00212,54,spain,Social Media,Wireless Earbuds,736.95,3,0.2,2023/02/06,STANDARD
+CUST00152,64,uk,Email,Laptop Pro,531.36,10,0.29,"April 16, 2023",PREMIUM
+CUST00944,39,uk,Email,USB-C Hub,789.29,6,0.38,2023-04-14,premium
+CUST00194,60,spain,Organic,Mechanical Keyboard,83.99,3,0.31,2023/02/24,budget
+CUST00157,52,spain,Social Media,USB-C Hub,246.55,5,0.03,2023-04-21,Standard
+CUST00591,47,FRANCE,referral,Monitor 4K,9999.99,3,0.18,2023-04-16,premium
+CUST00733,25,FRANCE,Referral,Mechanical Keyboard,94.52,6,0.35,"April 9, 2023",Enterprise
+CUST00364,67,France,Organic,Smart Watch,498.79,9,0.34,20-03-2023,STANDARD
+CUST00847,,SPAIN,social_media,Smart Watch,775.16,6,0.39,2023-04-22,PREMIUM
+CUST00955,35,italy,Social Media,Laptop Pro,254.45,10,0.38,2023/02/19,PREMIUM
+CUST00206,23,France,ORGANIC,USB-C Hub,181.36,8,0.04,2023-05-23,Budget
+CUST00682,29,france,Social Media,USB-C Hub,9999.99,8,0.26,21-03-2023,Enterprise
+CUST00670,70,,Email,Webcam HD,262.04,4,0.27,07-03-2023,premium
+CUST00469,55,,ORGANIC,Webcam HD,630.37,4,0.32,2023-01-11,Premium
+CUST00546,40,spain,social_media,Laptop Pro,525.5,10,0.28,04-03-2023,STANDARD
+CUST00988,60,GERMANY,ORGANIC,Tablet X,95.76,2,0.28,2023/02/25,Standard
+CUST00787,73,uk,organic,Mechanical Keyboard,81.43,2,0.09,2023/02/26,PREMIUM
+CUST00691,54,Spain,Email,Tablet X,82.41,6,0.07,2023-04-14,enterprise
+CUST00599,53,germany,referral,Mechanical Keyboard,620.11,9,0.06,2023-05-28,enterprise
+CUST00229,62,france,Email,Mechanical Keyboard,167.14,7,0.02,2023/02/16,budget
+CUST00929,,spain,referral,Wireless Earbuds,129.1,9,0.0,2023-01-14,Standard
+CUST00978,25,italy,Paid Search,Wireless Earbuds,787.82,7,0.14,2023/02/14,Enterprise
+CUST00920,43,UK,referral,Laptop Pro,199.4,4,0.3,2023-04-21,budget
+CUST00331,74,U.K.,Email,USB-C Hub,,9,0.02,"April 20, 2023",budget
+CUST00231,29,UK,referral,Smart Watch,0.01,1,0.02,2023-01-26,budget
+CUST00009,73,France,ORGANIC,Wireless Earbuds,69.55,7,0.19,18-03-2023,premium
+CUST00020,64,UK,Referral,Webcam HD,775.59,10,0.02,02-03-2023,premium
+CUST00037,60,Italy,email,USB-C Hub,203.2,5,0.08,2023-01-02,standard
+CUST00639,,germany,social_media,Smart Watch,792.41,4,0.17,2023-01-08,standard
+CUST00007,43,Germany,Organic,Tablet X,579.97,4,0.16,2023-05-15,PREMIUM
+CUST00301,21,uk,ORGANIC,Smart Watch,645.77,8,0.15,20-03-2023,premium
+CUST00897,74,spain,social_media,Smart Watch,733.42,8,0.18,2023-04-08,Enterprise
+CUST00412,48,france,social_media,Tablet X,446.21,5,0.25,2023/02/23,premium
+CUST00022,54,germany,email,Laptop Pro,475.26,9,0.1,2023-05-23,STANDARD
+CUST00443,54,italy,Social Media,Wireless Earbuds,606.2,6,0.11,2023-01-16,standard
+CUST00840,62,italy,referral,Mechanical Keyboard,152.78,2,0.13,2023-04-05,premium
+CUST00758,28,Spain,Referral,Monitor 4K,493.63,4,0.06,2023/02/19,premium
+CUST00710,34,Italy,referral,Smart Watch,514.17,8,0.28,2023/02/19,Enterprise
+CUST00888,19,Spain,organic,Webcam HD,517.44,9,0.02,2023-01-09,Enterprise
+CUST00541,27,Germany,email,Smart Watch,425.56,8,0.08,2023-05-16,Budget
+CUST00465,,U.K.,email,Smart Watch,537.71,2,0.22,"April 10, 2023",Enterprise
+CUST00348,56,France,ORGANIC,Webcam HD,704.65,9,0.05,2023-04-22,PREMIUM
+CUST00590,19,,paid_search,Laptop Pro,526.8,7,0.34,"April 7, 2023",Premium
+CUST00664,23,GERMANY,paid_search,Monitor 4K,183.48,8,0.01,2023/02/19,PREMIUM
+CUST00187,36,france,Referral,Monitor 4K,103.47,2,0.1,"April 17, 2023",Standard
+CUST00873,,spain,Paid Search,Tablet X,128.65,9,0.13,2023-05-02,standard
+CUST00339,60,germany,email,Wireless Earbuds,144.19,10,0.26,2023/02/24,Budget
+CUST00032,71,SPAIN,social_media,Laptop Pro,159.28,5,0.24,24-03-2023,STANDARD
+CUST00980,47,Germany,referral,Wireless Earbuds,244.96,9,0.31,2023-05-06,Premium
+CUST00949,36,Germany,referral,Mechanical Keyboard,303.62,9,0.25,2023/02/02,Enterprise
+CUST00463,32,FRANCE,Social Media,Laptop Pro,204.66,9,0.37,"April 12, 2023",premium
+CUST00477,22,Italy,referral,Mechanical Keyboard,540.71,6,0.31,25-03-2023,premium
+CUST00284,64,france,Email,Webcam HD,346.48,7,0.23,"April 27, 2023",standard
+CUST00081,71,U.K.,Paid Search,Tablet X,516.56,10,0.3,2023-05-22,PREMIUM
+CUST00442,,italy,Email,USB-C Hub,295.8,3,0.01,2023-04-21,enterprise
+CUST00701,46,italy,paid_search,Wireless Earbuds,651.16,4,0.36,2023-04-15,Enterprise
+CUST00786,26,,Email,Smart Watch,412.79,9,0.06,"April 26, 2023",budget
+CUST00075,,UK,Paid Search,USB-C Hub,82.65,6,0.34,2023-04-11,Budget
+CUST00770,63,uk,Organic,Webcam HD,99.35,5,0.25,2023-01-12,Premium
+CUST00196,23,GERMANY,Referral,Smart Watch,693.7,1,0.16,2023-01-24,enterprise
+CUST00666,,UK,organic,Wireless Earbuds,277.6,10,0.23,2023-04-13,standard
+CUST00625,56,italy,paid_search,Webcam HD,760.5,5,0.19,2023-04-03,Budget
+CUST00937,48,GERMANY,Paid Search,Smart Watch,623.66,8,0.34,17-03-2023,Premium
+CUST00107,51,SPAIN,paid_search,USB-C Hub,523.45,3,0.06,2023/02/06,Enterprise
+CUST00090,73,germany,social_media,Wireless Earbuds,236.27,3,0.22,2023/02/04,premium
+CUST00872,33,uk,Referral,Mechanical Keyboard,564.06,2,0.37,21-03-2023,premium
+CUST00867,38,France,referral,Monitor 4K,454.05,4,0.18,08-03-2023,standard
+CUST00526,61,UK,Paid Search,Mechanical Keyboard,94.75,10,0.06,2023/02/17,Standard
+CUST00903,75,france,email,USB-C Hub,269.94,3,0.24,2023-01-08,Standard
+CUST00163,63,FRANCE,organic,USB-C Hub,610.68,3,0.26,2023-04-27,budget
+CUST00545,36,GERMANY,organic,Laptop Pro,305.8,10,0.36,13-03-2023,Premium
+CUST00116,26,FRANCE,Organic,Mechanical Keyboard,621.28,9,0.13,"April 5, 2023",Enterprise
+CUST00153,64,italy,Social Media,Wireless Earbuds,466.6,2,0.18,2023-04-05,budget
+CUST00572,40,italy,Email,Laptop Pro,-50.0,5,0.27,2023/02/18,premium
+CUST00095,74,germany,Social Media,USB-C Hub,589.1,6,0.27,05-03-2023,Budget
+CUST00579,55,U.K.,Organic,USB-C Hub,667.95,8,0.38,"April 22, 2023",premium
+CUST00078,23,italy,Social Media,Tablet X,201.11,5,0.27,2023-04-10,enterprise
+CUST00753,49,GERMANY,social_media,Mechanical Keyboard,552.71,3,0.3,24-03-2023,Enterprise
+CUST00069,58,italy,paid_search,Wireless Earbuds,,7,0.4,2023-01-15,Premium
+CUST00650,33,Spain,social_media,Monitor 4K,792.1,-6,0.14,"April 4, 2023",PREMIUM
+CUST00933,40,Italy,Referral,Tablet X,,4,0.33,2023-04-19,Standard
+CUST00589,48,Spain,Social Media,Webcam HD,501.06,7,0.04,2023/02/01,standard
+CUST00290,45,Italy,Social Media,Monitor 4K,23.64,9,0.15,2023-01-11,enterprise
+CUST00504,35,,email,Tablet X,707.06,1,0.36,02-03-2023,Premium
+CUST00552,54,Spain,paid_search,Webcam HD,650.97,7,0.29,2023-01-17,standard
+CUST00810,71,UK,Email,Mechanical Keyboard,271.48,2,0.17,2023-05-25,Enterprise
+CUST00335,41,UK,social_media,Monitor 4K,632.81,7,0.14,2023-05-24,STANDARD
+CUST00916,34,Italy,social_media,Monitor 4K,330.97,1,0.29,21-03-2023,premium
+CUST00979,67,GERMANY,Email,Smart Watch,513.84,6,0.21,2023/02/28,budget
+CUST00517,72,Spain,Email,Smart Watch,402.56,10,0.38,2023-05-12,budget
+CUST00033,50,France,Social Media,Tablet X,21.32,9,0.38,2023-05-22,standard
+CUST00448,28,Germany,Organic,Laptop Pro,99.85,9,0.13,2023/02/23,Standard
+CUST00580,20,Italy,email,Webcam HD,592.77,10,0.35,2023-05-10,STANDARD
+CUST00017,21,Italy,Email,Smart Watch,644.46,2,0.08,2023-04-05,budget
+CUST00383,44,germany,Organic,Wireless Earbuds,375.17,8,0.25,2023/02/11,premium
+CUST00067,43,uk,Referral,Laptop Pro,272.15,7,0.33,2023-01-22,enterprise
+CUST00062,48,Germany,organic,Tablet X,690.49,2,0.37,2023-05-19,standard
+CUST00542,52,GERMANY,Referral,Laptop Pro,,7,0.05,2023-04-11,budget
+CUST00852,30,Germany,Paid Search,Smart Watch,379.7,3,0.35,2023-04-04,PREMIUM
+CUST00050,54,UK,organic,USB-C Hub,73.79,-6,0.17,2023-04-04,budget
+CUST00818,47,,referral,Monitor 4K,170.58,3,0.34,2023-05-09,budget
+CUST00061,,,Organic,Tablet X,83.33,4,0.03,2023-01-14,Budget
+CUST00826,43,france,Referral,Laptop Pro,,8,0.32,2023-05-10,Standard
+CUST00406,58,UK,Email,Monitor 4K,269.07,10,0.2,2023/02/05,premium
+CUST00438,47,Italy,Organic,Tablet X,342.95,6,0.32,2023/02/01,standard
+CUST00421,30,France,ORGANIC,Wireless Earbuds,15000.0,10,0.09,2023/02/08,premium
+CUST00658,37,spain,Social Media,Wireless Earbuds,449.43,3,0.12,"April 12, 2023",standard
+CUST00123,53,,email,Monitor 4K,254.9,1,0.26,"April 15, 2023",Premium
+CUST00957,37,Germany,Organic,Wireless Earbuds,90.33,4,0.22,01-03-2023,Budget
+CUST00024,34,FRANCE,social_media,Smart Watch,143.04,9,0.24,2023-05-17,premium
+CUST00942,58,Spain,referral,Wireless Earbuds,605.46,2,0.01,2023-05-05,PREMIUM
+CUST00619,60,italy,Social Media,Monitor 4K,441.98,8,0.26,2023/02/23,premium
+CUST00262,40,SPAIN,Social Media,Smart Watch,470.88,4,0.03,2023-01-10,premium
+CUST00266,24,france,paid_search,Wireless Earbuds,389.39,2,0.16,2023-04-22,Standard
+CUST00721,25,germany,Social Media,Webcam HD,154.54,7,0.4,2023-05-22,Premium
+CUST00694,30,france,organic,USB-C Hub,753.42,6,0.12,"April 3, 2023",budget
+CUST00204,40,FRANCE,Email,Laptop Pro,524.46,6,0.17,2023-01-04,Standard
+CUST00342,59,U.K.,Organic,Mechanical Keyboard,422.77,6,0.14,2023-04-20,premium
+CUST00371,48,uk,Email,Smart Watch,301.55,9,0.32,01-03-2023,budget
+CUST00472,73,spain,organic,Mechanical Keyboard,549.22,9,0.02,"April 21, 2023",STANDARD
+CUST00234,45,France,referral,Laptop Pro,597.71,-2,0.05,2023-01-06,Budget
+CUST00480,58,france,organic,Monitor 4K,725.6,-10,0.28,2023-04-16,budget
+CUST00154,44,SPAIN,email,Webcam HD,68.58,3,0.22,2023-05-16,enterprise
+CUST00189,42,spain,Referral,Webcam HD,,3,0.34,2023-05-26,STANDARD
+CUST00220,22,Italy,Organic,Monitor 4K,750.34,6,0.2,"April 1, 2023",Premium
+CUST00906,66,France,paid_search,Mechanical Keyboard,674.26,3,0.36,"April 18, 2023",standard
+CUST00766,26,,organic,Smart Watch,,1,0.26,2023-01-05,standard
+CUST00457,70,FRANCE,email,Laptop Pro,373.32,5,0.23,2023/02/07,STANDARD
+CUST00792,50,uk,email,USB-C Hub,414.64,5,0.4,2023-01-20,premium
+CUST00927,18,Germany,paid_search,Webcam HD,528.57,6,0.19,"April 28, 2023",Premium
+CUST00370,72,Italy,Referral,USB-C Hub,458.47,10,0.04,2023/02/02,standard
+CUST00874,69,italy,email,Laptop Pro,344.67,10,0.36,2023-04-05,Standard
+CUST00322,29,SPAIN,Organic,Wireless Earbuds,91.72,4,0.27,12-03-2023,Standard
+CUST00757,35,,ORGANIC,Mechanical Keyboard,639.62,4,0.16,2023-05-18,enterprise
+CUST00729,56,SPAIN,paid_search,USB-C Hub,349.17,9,0.15,2023/02/13,Budget
+CUST00717,45,Italy,referral,USB-C Hub,431.72,5,0.37,2023-05-28,enterprise
+CUST00805,44,France,referral,Smart Watch,648.58,5,0.08,2023-04-18,budget
+CUST00892,70,Italy,Social Media,Smart Watch,131.6,6,0.14,2023-04-21,STANDARD
+CUST00070,27,Spain,Paid Search,Mechanical Keyboard,388.33,8,0.15,"April 17, 2023",PREMIUM
+CUST00789,57,italy,Organic,Wireless Earbuds,95.98,1,0.35,"April 28, 2023",Premium
+CUST00791,66,U.K.,referral,Wireless Earbuds,400.84,6,0.16,"April 22, 2023",PREMIUM
+CUST00144,38,,social_media,Monitor 4K,458.09,6,0.05,2023-04-08,PREMIUM
+CUST00023,43,FRANCE,Email,Mechanical Keyboard,749.87,1,0.4,2023-01-03,enterprise
+CUST00707,32,italy,referral,Monitor 4K,291.7,8,0.34,2023-01-24,budget
+CUST00299,66,U.K.,organic,Laptop Pro,153.0,6,0.38,24-03-2023,Premium
+CUST00837,45,germany,Paid Search,Tablet X,433.06,8,0.04,2023-01-21,standard
+CUST00544,61,SPAIN,email,Webcam HD,415.21,7,0.24,2023-04-20,STANDARD
+CUST00571,73,GERMANY,Social Media,Tablet X,594.16,5,0.22,2023-01-11,standard
+CUST00267,52,spain,ORGANIC,USB-C Hub,367.7,5,0.11,19-03-2023,premium
+CUST00677,71,FRANCE,ORGANIC,Laptop Pro,116.84,7,0.27,2023-01-22,Standard
+CUST00782,65,SPAIN,email,Smart Watch,264.29,7,0.07,21-03-2023,budget
+CUST00560,70,Germany,organic,Laptop Pro,753.86,4,0.15,2023-05-23,STANDARD
+CUST00587,47,FRANCE,ORGANIC,Monitor 4K,569.42,6,0.18,2023-05-15,Enterprise
+CUST00336,47,Spain,social_media,Mechanical Keyboard,523.53,2,0.34,2023/02/18,standard
+CUST00252,29,france,social_media,Tablet X,15000.0,1,0.19,25-03-2023,Enterprise
+CUST00994,40,Spain,referral,Laptop Pro,630.81,9,0.3,22-03-2023,premium
+CUST00091,40,UK,paid_search,USB-C Hub,15000.0,1,0.17,2023-01-24,Premium
+CUST00576,28,,referral,Monitor 4K,406.03,8,0.28,2023-04-15,Budget
+CUST00205,65,SPAIN,Referral,Tablet X,622.43,10,0.06,2023-01-16,Premium
+CUST00588,39,U.K.,ORGANIC,Tablet X,491.16,2,0.01,2023-04-04,premium
+CUST00307,18,uk,Organic,Mechanical Keyboard,530.58,8,0.15,2023-01-27,standard
+CUST00029,60,France,social_media,Monitor 4K,742.1,4,0.39,2023/02/14,premium
+CUST00155,29,Spain,Referral,USB-C Hub,696.77,5,0.08,2023/02/09,enterprise
+CUST00895,54,Italy,Referral,Monitor 4K,705.21,1,0.26,"April 15, 2023",STANDARD
+CUST00156,37,UK,Paid Search,Tablet X,394.25,9,0.32,10-03-2023,Premium
+CUST00845,19,germany,email,Monitor 4K,171.2,7,0.39,2023-05-22,enterprise
+CUST00424,38,uk,referral,Tablet X,494.19,7,0.16,2023-05-19,Enterprise
+CUST00751,58,germany,paid_search,USB-C Hub,353.12,1,0.11,12-03-2023,budget
+CUST00794,40,Spain,referral,Webcam HD,104.51,7,0.08,03-03-2023,STANDARD
+CUST00333,69,italy,organic,Webcam HD,543.91,5,0.29,2023-04-11,STANDARD
+CUST00076,20,italy,Organic,Tablet X,797.99,2,0.04,2023-05-23,Premium
+CUST00768,66,italy,referral,Wireless Earbuds,210.17,9,0.25,2023-01-01,premium
+CUST00197,33,italy,Referral,Wireless Earbuds,229.76,5,0.03,2023-04-09,budget
+CUST00138,22,Germany,Social Media,Webcam HD,662.2,2,0.13,2023-01-15,Budget
+CUST00484,30,france,email,Tablet X,441.63,5,0.39,2023-04-01,premium
+CUST00114,55,Italy,ORGANIC,USB-C Hub,536.47,3,0.38,18-03-2023,budget
+CUST00292,36,Spain,Referral,USB-C Hub,124.36,8,0.08,2023-04-01,standard
+CUST00946,53,GERMANY,Organic,USB-C Hub,87.15,8,0.37,2023/02/24,Premium
+CUST00449,28,France,Paid Search,USB-C Hub,42.61,1,0.02,2023-04-13,PREMIUM
+CUST00379,58,,Email,Monitor 4K,261.54,6,0.09,2023-01-15,Standard
+CUST00551,37,spain,Email,USB-C Hub,507.47,8,0.22,2023-01-21,enterprise
+CUST00283,34,Italy,Email,Mechanical Keyboard,207.44,1,0.32,"April 13, 2023",STANDARD
+CUST00351,,,organic,Smart Watch,180.23,6,0.04,2023-04-21,Enterprise
+CUST00655,72,SPAIN,Paid Search,Wireless Earbuds,640.58,3,0.39,2023-04-07,Premium
+CUST00058,26,Italy,referral,Smart Watch,386.13,8,0.39,28-03-2023,Budget
+CUST00104,52,,paid_search,USB-C Hub,53.0,1,0.03,19-03-2023,budget
+CUST00061,,,Organic,Tablet X,83.33,4,0.03,2023-01-14,Budget
+CUST00385,68,UK,referral,USB-C Hub,277.59,3,0.31,2023-01-18,Budget
+CUST00601,,France,ORGANIC,Smart Watch,142.49,5,0.3,2023-04-24,Premium
+CUST00622,69,SPAIN,email,USB-C Hub,,1,0.07,2023-01-28,enterprise
+CUST00084,22,FRANCE,paid_search,Monitor 4K,305.3,-7,0.21,2023-04-12,Standard
+CUST00256,57,germany,ORGANIC,USB-C Hub,678.54,6,0.06,2023-05-05,Premium
+CUST00499,72,SPAIN,referral,Tablet X,237.75,7,0.1,14-03-2023,Enterprise
+CUST00724,24,GERMANY,Organic,Wireless Earbuds,327.16,9,0.21,2023-01-17,Enterprise
+CUST00931,34,Spain,referral,Tablet X,581.7,3,0.29,2023-04-01,STANDARD
+CUST00031,73,germany,paid_search,Laptop Pro,237.31,2,0.11,2023-05-17,budget
+CUST00705,73,GERMANY,Organic,Laptop Pro,585.67,3,0.05,"April 9, 2023",standard
+CUST00400,75,GERMANY,Referral,USB-C Hub,513.93,6,0.23,2023/02/13,enterprise
+CUST00676,,France,ORGANIC,USB-C Hub,379.86,2,0.1,2023-04-05,Budget
+CUST00800,,U.K.,referral,Wireless Earbuds,637.77,7,0.29,2023-04-27,PREMIUM
+CUST00048,25,italy,paid_search,Webcam HD,150.88,10,0.29,2023/02/10,Premium
+CUST00970,23,GERMANY,Email,Mechanical Keyboard,,5,0.3,2023-01-27,budget
+CUST00995,24,GERMANY,Referral,Smart Watch,680.35,9,0.39,2023-01-15,Enterprise
+CUST00975,46,FRANCE,referral,Webcam HD,544.93,5,0.26,"April 3, 2023",Budget
+CUST00482,58,Italy,Organic,USB-C Hub,82.76,8,0.12,2023/02/06,enterprise
+CUST00608,64,,ORGANIC,Mechanical Keyboard,263.56,6,0.06,2023-01-26,enterprise
+CUST00739,57,germany,organic,Monitor 4K,210.5,9,0.02,2023-04-06,enterprise
+CUST00965,45,SPAIN,Social Media,Smart Watch,748.66,10,0.21,"April 24, 2023",Budget
+CUST00983,30,uk,ORGANIC,Webcam HD,156.66,4,0.12,2023-01-07,Enterprise
+CUST00667,22,SPAIN,Social Media,Tablet X,770.31,5,0.04,"April 6, 2023",premium
+CUST00329,,,email,Laptop Pro,743.88,2,0.27,"April 3, 2023",Standard
+CUST00498,47,spain,ORGANIC,USB-C Hub,142.29,10,0.23,"April 28, 2023",standard
+CUST00153,64,italy,Social Media,Wireless Earbuds,466.6,2,0.18,2023-04-05,budget
+CUST00219,26,,ORGANIC,Tablet X,213.09,7,0.23,21-03-2023,budget
+CUST00086,37,Italy,Social Media,Smart Watch,257.4,8,0.09,"April 5, 2023",budget
+CUST00902,40,Spain,Social Media,Webcam HD,610.97,3,0.29,"April 27, 2023",enterprise
+CUST00192,33,italy,Social Media,USB-C Hub,636.59,2,0.39,2023-01-04,budget
+CUST00441,52,U.K.,social_media,Webcam HD,599.22,9,0.29,18-03-2023,enterprise
+CUST00409,65,SPAIN,paid_search,Tablet X,272.26,10,0.27,2023-04-12,STANDARD
+CUST00668,56,Spain,organic,Wireless Earbuds,321.0,4,0.26,2023-01-15,premium
+CUST00784,37,germany,Referral,Tablet X,,5,0.23,2023-01-19,Budget
+CUST00876,61,Italy,organic,Webcam HD,562.44,7,0.22,2023-01-15,Premium
+CUST00660,22,GERMANY,Organic,Mechanical Keyboard,522.05,5,0.04,2023-01-12,premium
+CUST00049,37,italy,Email,Monitor 4K,79.28,4,0.31,2023-05-20,Premium
+CUST00765,19,Germany,ORGANIC,Wireless Earbuds,166.52,3,0.1,2023-05-13,Premium
+CUST00604,72,SPAIN,Email,USB-C Hub,620.72,9,0.03,13-03-2023,PREMIUM
+CUST00525,,Germany,Referral,Smart Watch,162.93,2,0.07,28-03-2023,STANDARD
+CUST00428,19,FRANCE,referral,Tablet X,272.78,3,0.05,2023-01-23,Budget
+CUST00415,56,SPAIN,Organic,Wireless Earbuds,457.34,1,0.37,11-03-2023,Budget
+CUST00040,60,SPAIN,Referral,USB-C Hub,497.87,9,0.36,2023-04-06,Budget
+CUST00562,73,U.K.,ORGANIC,Webcam HD,618.06,7,0.11,2023-01-27,Budget
+CUST00936,57,FRANCE,ORGANIC,Wireless Earbuds,,2,0.02,"April 26, 2023",Budget
+CUST00287,55,Germany,referral,Smart Watch,475.19,10,0.36,"April 4, 2023",budget
+CUST00725,70,UK,Email,Smart Watch,533.69,2,0.24,2023/02/01,enterprise
+CUST00838,32,France,organic,Laptop Pro,435.06,5,0.25,2023-05-13,budget

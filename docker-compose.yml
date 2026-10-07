@@ -1,0 +1,49 @@
+version: "3.9"
+
+# NOTE: Docker is not available in this environment.
+# This file is provided as a reference for containerised deployment.
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./backend/uploads:/app/uploads
+    env_file:
+      - .env
+    environment:
+      - DATABASE_URL=sqlite:///./data/copilot.db
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+# To use PostgreSQL instead of SQLite, add:
+#
+#   postgres:
+#     image: postgres:16-alpine
+#     environment:
+#       POSTGRES_DB: copilot
+#       POSTGRES_USER: copilot
+#       POSTGRES_PASSWORD: changeme
+#     volumes:
+#       - pg_data:/var/lib/postgresql/data
+#     ports:
+#       - "5432:5432"
+#
+# And set in .env:
+#   DATABASE_URL=postgresql://copilot:changeme@postgres:5432/copilot
+#
+# volumes:
+#   pg_data:

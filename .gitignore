@@ -1,0 +1,75 @@
+# =============================================
+# Kristik.ai — .gitignore
+# =============================================
+
+# --- Environment / Secrets (NEVER commit real keys) ---
+.env
+.env.local
+.env.*.local
+*.env
+!.env.example
+
+# --- Python ---
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+ENV/
+pip-log.txt
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+*.pyc
+
+# --- Database (SQLite — contains user data, never commit) ---
+backend/data/*.db
+data/*.db
+*.db
+
+# --- Uploads (user-uploaded files — never commit) ---
+uploads/
+backend/uploads/
+backend/test_uploads/
+
+# --- Node / Frontend ---
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+frontend/.vite/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDE / Agent tools ---
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+.kiro/
+.opencode/
+.cursor/
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Vite temp files ---
+frontend/vite.config.js.timestamp-*.mjs
+*.timestamp-*.mjs
+
+# --- Root-level image (source for docs/screenshot.png — not committed directly) ---
+/image.png
